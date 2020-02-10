@@ -83,10 +83,6 @@ http://cdn.bdiptv.design:8081/atv/desh/chunks.m3u8?nimblesessionid=2595813&wmsAu
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla", Discovery HD
-http://51.15.108.237/live/discovery-hq/chunks.m3u8?nimblesessionid=6372367&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIwIDQ6MzM6NTggQU0maGFzaF92YWx1ZT1FVUxMblB1UjVSVy8xN0VPdE0zS0hnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTEwMy41OC43My4xMTcmc3RybV9sZW49MTc=
-#EXTINF:-1 group-title="Bangla", Doom Music
-http://42.0.6.130/hls/-oU28VUoyG7Xt9zXXhoTQw/1576663935/dhoom_hi/index.m3u8
 #EXTINF:-1 group-title="Bangla", Ekattor TV
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1 group-title="Bangla", Ekushey TV
