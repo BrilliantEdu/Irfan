@@ -102,7 +102,7 @@ http://103.58.73.26/streams/108/index.m3u8
 #EXTINF:-1 group-title="Bangla", Gazi TV (Opt-2)
 http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1 group-title="Bangla", Independent TV
-http://103.118.76.234:1935/tvprogram/INDEPENDENT/chunklist.m3u8
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Iqra Bangla TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", ITV
@@ -269,12 +269,12 @@ https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 https://stream.simpaisa.com/pitvlive2/masalanew3_240p/chunklist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Nat geo people FHD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="Hindi Ent",Nat Geo BDIX 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Nat Geo P BDIX
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
-#EXTINF:-1 group-title="Hindi Ent",Net Geo W BDIX
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent", Nat Geo BDIX 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="Hindi Ent", Nat Geo People BDIX
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:-1 group-title="Hindi Ent", Net Geo Wild BDIX
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Sony MAX BDXI
 http://103.58.73.26/streams/109/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Star Gold
@@ -315,6 +315,12 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And Tv
 https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",And Flix HD BDXI
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",And TV BDXI
+http://z5ams.akamaized.net/andtvsd/index.m3u8?hdnts=st=1581830417~exp=1581833417~acl=/*~hmac=61726db501d25ba11655c02e987b3da6da13b0c6505de3d515e28015ffdde162
+#EXTINF:-1 group-title="Hindi Ent",And TV HD
+http://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1581830417~exp=1581833417~acl=/*~hmac=61726db501d25ba11655c02e987b3da6da13b0c6505de3d515e28015ffdde162
 #EXTINF:-1 group-title="Hindi Ent",Asian Food CH HD
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Bambarbia Travel FHD
@@ -488,9 +494,9 @@ https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-
 #EXTINF:-1 group-title="Movies", AYSAR MOVIE 2
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 group-title="Movies", AYSAR MOVIE 4
-http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", AYSAR MOVIE 4
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1 group-title="Movies", AYSAR MOVIE 4
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movies", AYSAR MOVIE 6
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movies", AYSAR MOVIE 7
@@ -505,10 +511,10 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-logo="https://i.imgur.com/VW5Qk23.png" group-title="Movies", CBC Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1 group-title="Movies", Celestial Movies
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 group-title="Movies", CELESTIAL MOVIES
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
+#EXTINF:-1 group-title="Movies", Celestial Movies
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies", Celestial Movies
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 group-title="Movies", Celestial Movies SD
@@ -528,9 +534,9 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlis
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppcomedytelugu.png" group-title="Movies", Comedy Telugu
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
 #EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
 #EXTINF:-1 tvg-id="dmc HD ARB" tvg-name="dmc HD ARB" tvg-logo="https://i.imgur.com/es7v1kI.png" group-title="Movies", DMC HD
@@ -542,11 +548,11 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="Movies", Groovy
 http://bit.ly/2p6JqSo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies", iFILM English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies", iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies", iFILM English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SMToXWd.png" group-title="Movies", iFILM Persian 2
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2tnZJmq.jpg" group-title="Movies", Imagine Movies
@@ -564,9 +570,9 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action FHD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action SD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
 #EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies", MBC Drama
@@ -643,6 +649,8 @@ https://1586823379.rsc.cdn77.org/1586823379/tracks-v1a1/mono.m3u8
 https://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies",Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 group-title="Movies",SONY PIX HD
+http://173.82.170.226:8080/live/SONY-PIXHD/CH214771/3183db0a0d1b9abc21e9bcce62fbe5ac5d32e801ae1c8f1491601a78626d6f45/SONY-PIXHD_2_playlist.m3u8
 #EXTINF:-1 group-title="Movies",Star Movies SELECT HD
 http://87.117.229.52:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 group-title="Music", 30A Music
@@ -751,6 +759,8 @@ http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 group-title="Music", M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1394453882.m3u8
+#EXTINF:-1 group-title="Music",Mtv Int BDXI
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 group-title="Music", M6 Music
 http://iptv.ndasat.com:88/live/228455103554472/228455103554472/3675.m3u8
 #EXTINF:-1 group-title="Music", Magic TV
@@ -1039,6 +1049,10 @@ http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
 http://43.231.22.238:8081/temp1/ctg_tensports/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+#EXTINF:-1 group-title="Sports",Goal TV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+#EXTINF:-1 group-title="Sports",KSA Sports SD
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
 #EXTINF:-1 group-title="World TV", A Tv
 http://176.67.202.21:8880/play/atv2
 #EXTINF:-1 group-title="World TV", Azerbaijan
@@ -1217,3 +1231,5 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w659572065_b384000_s
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1 group-title="World TV",World Fashion CH
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="World TV",AD TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
