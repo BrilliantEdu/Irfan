@@ -78,7 +78,9 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangla", Deepto TV BXID
 http://103.58.73.26/streams/120/index.m3u8
 #EXTINF:-1 group-title="Bangla", Desh TV
-http://cdn.bdiptv.design:8081/atv/desh/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/desh/chunks.m3u8
+#EXTINF:-1 group-title="Bangla",Duronto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/duronto/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Deshe Bideshe
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Deshi TV
@@ -285,6 +287,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent", TLC
 http://178.196.237.240:3000/play/xxTLCxx
+#EXTINF:-1 group-title="Hindi Ent",TRAVEL XP
+http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/4027ed8825648e8160c5e03a2a4c70eeed0ef1c50c186d9625dbda72e90f89ed/TRAVELXP-BANGLA_2_playlist.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Travel XP HD
+http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/4027ed8825648e8160c5e03a2a4c70eeed0ef1c50c186d9625dbda72e90f89ed/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", TLC HD in
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", TLC TK
@@ -301,6 +307,8 @@ http://42.0.6.130/hls/dV0PV-wCtDiDG_7ZUudoiA/1568454156/zee_classic_low/index.m3
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zee Tv In
 http://live.airteltvplus.com/hls/C2H1dsLBuN3jKFuaYYfUZw/1568454081/zee_tv_hi/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Zee TV HD BDXI
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zoom
@@ -318,7 +326,7 @@ https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And Flix HD BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And TV BDXI
-http://z5ams.akamaized.net/andtvsd/index.m3u8?hdnts=st=1581830417~exp=1581833417~acl=/*~hmac=61726db501d25ba11655c02e987b3da6da13b0c6505de3d515e28015ffdde162
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And TV HD
 http://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1581830417~exp=1581833417~acl=/*~hmac=61726db501d25ba11655c02e987b3da6da13b0c6505de3d515e28015ffdde162
 #EXTINF:-1 group-title="Hindi Ent",Asian Food CH HD
@@ -446,7 +454,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Kids", Baby Tv
 http://stream.tapmad.com:1935/pitvlive2/baby_240p/chunklist_w404007879.m3u8
 #EXTINF:-1 group-title="Kids", BBC Cbeebies
-https://anevia115.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies-avc1_1000000=7.m3u8
+http://173.82.54.226:8080/live/Lifetime/CH214771/ab197a218b0acd65616bbfd3e4496be4476d9fa4e8831d08b599985365fa5321/Lifetime_2_playlist.m3u8
 #EXTINF:-1 group-title="Kids", CN
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1 group-title="Kids", CN In
@@ -472,7 +480,9 @@ https://anevia115.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
 #EXTINF:-1 group-title="Kids",Miamo Cartoon TV 
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 group-title="Kids",Nickelodeon US
-https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8.m3u8
+http://173.82.159.42:8080/live/NICK/CH214771/ab5ec299cb56c2382aca97995452d684164b08d1a6feb79b8e3e903b32f66c5f/NICK_1_playlist.m3u8
+#EXTINF:-1 group-title="Kids",Sony YAY
+http://173.82.170.226:8080/live/SONY-YAY/CH214771/70efd55ff09fc934f6e7b7498a30fdd78256c7040411e97f704190616cf01144/SONY-YAY_1_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Movies 6
@@ -688,7 +698,7 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 group-title="Music", Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-name="Dil Se " group-title="Music", Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1 group-title="Music", DJing Dance Floor
 http://djing.com/tv/dancefloor.m3u8
 #EXTINF:-1 group-title="Music", DJing Electro rock
@@ -893,12 +903,6 @@ http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="Music", TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 group-title="Music", Trace Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 group-title="Music", Trace Kitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 group-title="Music", Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 #EXTINF:-1 group-title="Music", TRT Muzik
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1 group-title="Music", TV Duga Plus
@@ -995,6 +999,8 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sports", Dsports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Sports",D Sports Int
+http://173.82.159.42:8080/live/DSPORTS/CH214771/126b4acc43b09776ab56fdb98a4650856bcd5b6c0736c6b309ee8165c2ba8c5c/DSPORTS_2_playlist.m3u8
 #EXTINF:-1 group-title="Sports", PTV Sports
 http://43.231.22.238:8081/temp1/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 group-title="Sports", Real M Tv
@@ -1232,4 +1238,4 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1 group-title="World TV",World Fashion CH
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="World TV",AD TV
-http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
