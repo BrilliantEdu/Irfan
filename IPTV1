@@ -287,16 +287,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent", TLC
 http://178.196.237.240:3000/play/xxTLCxx
-#EXTINF:-1 group-title="Hindi Ent",TRAVEL XP
-http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/4027ed8825648e8160c5e03a2a4c70eeed0ef1c50c186d9625dbda72e90f89ed/TRAVELXP-BANGLA_2_playlist.m3u8
-#EXTINF:-1 group-title="Hindi Ent",Travel XP HD
-http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/4027ed8825648e8160c5e03a2a4c70eeed0ef1c50c186d9625dbda72e90f89ed/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", TLC HD in
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", TLC TK
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Vh1
-http://42.0.6.130/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Vh1 In
 http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Z Living
@@ -327,8 +321,6 @@ https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And TV BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
-#EXTINF:-1 group-title="Hindi Ent",And TV HD
-http://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1581830417~exp=1581833417~acl=/*~hmac=61726db501d25ba11655c02e987b3da6da13b0c6505de3d515e28015ffdde162
 #EXTINF:-1 group-title="Hindi Ent",Asian Food CH HD
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Bambarbia Travel FHD
@@ -375,8 +367,6 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b200
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Foodiee FHD
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Ent",Football TV
-https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_480p/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Fox Life US FHD
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Gabruu TV
@@ -957,6 +947,8 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 group-title="Music", Vh1
+http://42.0.6.130/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
 #EXTINF:-1 group-title="News", Al Jazeera English
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
 #EXTINF:-1 group-title="News", CGTN
@@ -999,8 +991,6 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sports", Dsports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 group-title="Sports",D Sports Int
-http://173.82.159.42:8080/live/DSPORTS/CH214771/126b4acc43b09776ab56fdb98a4650856bcd5b6c0736c6b309ee8165c2ba8c5c/DSPORTS_2_playlist.m3u8
 #EXTINF:-1 group-title="Sports", PTV Sports
 http://43.231.22.238:8081/temp1/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 group-title="Sports", Real M Tv
@@ -1016,7 +1006,7 @@ http://103.58.73.26/streams/105/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Ten 2 HD
 http://103.58.73.26/streams/112/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Ten 3
-http://175.41.46.16:8081/hls/8.m3u8
+http://www.skybdlive.com/live/skyfeed1018/index.m3u8
 #EXTINF:-1 group-title="Sports", Star Sports 1 HD
 http://103.58.73.26/streams/104/index.m3u8
 #EXTINF:-1 group-title="Sports", Star Sports 2 HD
@@ -1059,6 +1049,8 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1 group-title="Sports",KSA Sports SD
 https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Football TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_480p/index.m3u8
 #EXTINF:-1 group-title="World TV", A Tv
 http://176.67.202.21:8880/play/atv2
 #EXTINF:-1 group-title="World TV", Azerbaijan
@@ -1239,3 +1231,97 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="World TV",AD TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:-1 group-title="New",Discovery Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/32_.m3u8
+#EXTINF:-1 group-title="New",Animel Planet Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/25_.m3u8
+#EXTINF:-1 group-title="New",AXN Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/26_.m3u8
+#EXTINF:-1 group-title="New",Bain Sports Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/933_.m3u8
+#EXTINF:-1 group-title="New",CN Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/923_.m3u8
+#EXTINF:-1 group-title="New",C Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/27_.m3u8
+#EXTINF:-1 group-title="New",Direct Sports Plus+ Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/942_.m3u8
+#EXTINF:-1 group-title="New",Direct Sports Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/944_.m3u8
+#EXTINF:-1 group-title="New",Direct Sports 2 Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/943_.m3u8
+#EXTINF:-1 group-title="New",H and H
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/34_.m3u8
+#EXTINF:-1 group-title="New",Discovery Theater Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/37_.m3u8
+#EXTINF:-1 group-title="New",Discovery SCI Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/36_.m3u8
+#EXTINF:-1 group-title="New",HBO Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/61_.m3u8
+#EXTINF:-1 group-title="New",TLC Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/86_.m3u8
+#EXTINF:-1 group-title="New",Tln Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/87_.m3u8
+#EXTINF:-1 group-title="New",SONY Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/78_.m3u8
+#EXTINF:-1 group-title="New",WIN Sports Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/925_.m3u8
+#EXTINF:-1 group-title="New",AXN Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/26_.m3u8
+#EXTINF:-1 group-title="New",Direct Sports 2 Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/943_.m3u8
+#EXTINF:-1 group-title="New",ESPN Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/935_.m3u8
+#EXTINF:-1 group-title="New",ESPN Plus Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/928_.m3u8
+#EXTINF:-1 group-title="New",ESPN 3 Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/934_.m3u8
+#EXTINF:-1 group-title="New",Fox Sports 2 Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/927_.m3u8
+#EXTINF:-1 group-title="New",Fox Sports 3 Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/926_.m3u8
+#EXTINF:-1 group-title="New",Golden Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/58_.m3u8
+#EXTINF:-1 group-title="New",Fox Family Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/63_.m3u8
+#EXTINF:-1 group-title="New",Nick Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/931_.m3u8
+#EXTINF:-1 group-title="New",Nick 2 Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/930_.m3u8
+#EXTINF:-1 group-title="New",Nick jr Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/919_.m3u8
+#EXTINF:-1 group-title="New",SyFy Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/82_.m3u8
+#EXTINF:-1 group-title="New",UniCable Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/91_.m3u8
+#EXTINF:-1 group-title="New",Univision Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/941_.m3u8
+#EXTINF:-1 group-title="New",True Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/90_.m3u8
+#EXTINF:-1 group-title="New",Discovery World Latin
+https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/39_.m3u8
+#EXTINF:-1 group-title="New",8XM
+http://51.15.8.16:8081/paki1/8xmhd/playlist.m3u8
+#EXTINF:-1 group-title="New",ARY Zauq
+http://51.15.8.16:8081/paki1/aryzauq/playlist.m3u8
+#EXTINF:-1 group-title="New",Joo music
+http://51.15.8.16:8081/paki1/joomusic/playlist.m3u8
+#EXTINF:-1 group-title="New",Sony Earth 
+http://51.15.8.16:8081/lolind2/sonyearthsdeng/playlist.m3u8
+#EXTINF:-1 group-title="New",Discovery hd
+http://51.15.8.16:8081/liveuk/discoveryhd/playlist.m3u8
+#EXTINF:-1 group-title="New",Animal Planet world hd en
+http://51.15.8.16:8081/lolind2/animalplanetworldhdeng/playlist.m3u8
+#EXTINF:-1 group-title="New",Crime and investigation hd
+http://51.15.8.16:8081/liveuk/crimeandinvestigationhd/playlist.m3u8
+#EXTINF:-1 group-title="New",History
+http://51.15.8.16:8081/liveuk/history/playlist.m3u8
+#EXTINF:-1 group-title="New",Discovery turbo
+http://51.15.8.16:8081/liveuk/discoveryturbo/playlist.m3u8
+#EXTINF:-1 group-title="New",Discovery sci
+http://51.15.8.16:8081/liveuk/discoverysci/playlist.m3u8
+#EXTINF:-1 group-title="New",MTV uk
+http://51.15.8.16:8081/liveuk/mtv/playlist.m3u8
+#EXTINF:-1 group-title="New",TLC UK
+http://51.15.8.16:8081/liveuk/tlc/playlist.m3u8
+#EXTINF:-1 group-title="New",Sky movies action
+http://51.15.8.16:8081/liveuk/skymoviesaction/playlist.m3u8
