@@ -79,8 +79,6 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.58.73.26/streams/120/index.m3u8
 #EXTINF:-1 group-title="Bangla", Desh TV
 http://telelivetv.webredirect.org:8081/globeworld2020/desh/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Duronto TV
-http://telelivetv.webredirect.org:8081/globeworld2020/duronto/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Deshe Bideshe
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Deshi TV
@@ -233,10 +231,12 @@ https://streamer-1.toffeelive.com/live/zee_bangla_hd_720/index.m3u8
 http://103.205.133.42:1935/local/zee_bangla_cinema_720/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Zee Bangla Cinema (Opt-2)
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
+#EXTINF:-1 group-title="Bangla",Duronto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/duronto/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", ARY Musik
 https://stream.arylive.com/MusikLive/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent", BBC Earth HD
-http://173.82.170.226:8080/live/BBC-EARTH/CH214771/e6b9f8e879f0099901d994a99d678e87985eacc2a9857a049b606b109afce82d/BBC-EARTH_1_playlist.m3u8
+http://173.82.170.226:8080/live/BBC-EARTH/CH214771/c3343a91ec134fa5023453b4ffce7ca1604a005fbcd3b223a0a2b0d63fc45f2a/BBC-EARTH_1_playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Bollywood HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 group-title="Hindi Ent", Boogle Bollywood
@@ -249,10 +249,10 @@ http://stream.tapmad.com:1935/pitvlive2/discovery_240p/chunklist_w182469549.m3u8
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1161312366.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Film World
 http://stream.tapmad.com:1935/pitvlive2/filmworld3/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Fox Life HD
-http://akamai.anytv.live/FoxLifeHD/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent", Fox Life HD
+http://akamai.anytv.live/FoxLifeHD/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", HBO
 http://103.58.73.26/streams/111/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", HIndi Movie 1
@@ -269,12 +269,12 @@ http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
 https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Masala TV
 https://stream.simpaisa.com/pitvlive2/masalanew3_240p/chunklist.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Nat geo people FHD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Nat Geo BDIX 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Nat Geo People BDIX
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:-1 group-title="Hindi Ent", Nat geo people FHD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Net Geo Wild BDIX
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Sony MAX BDXI
@@ -297,12 +297,14 @@ http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zee Bollywood
 http://42.0.6.130/hls/dV0PV-wCtDiDG_7ZUudoiA/1568454156/zee_classic_low/index.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Zee Cinema HD
+#EXTINF:-1 group-title="Hindi Ent", Zee Cinema
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi Ent", Zee Cinema SD
+http://173.82.170.226:8080/live/ZEE-CINEMA/CH214771/1b33a5035c603ad5d225ef72c82d8478748c4c2928289ef83368f2f2ef23eb76/ZEE-CINEMA_1_playlist.m3u8
+#EXTINF:-1 group-title="Hindi Ent", Zee Cinema HD
+http://216.144.250.174/Zee_CInema_HD/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zee Tv In
 http://live.airteltvplus.com/hls/C2H1dsLBuN3jKFuaYYfUZw/1568454081/zee_tv_hi/index.m3u8
-#EXTINF:-1 group-title="Hindi Ent",Zee TV HD BDXI
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zoom
@@ -315,10 +317,10 @@ https://m-c01-j2apps.s.llnwi.net/live/0876.9XO.in.m3u8
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="Hindi Ent",AMC US
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Ent",And Tv
-https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And Flix HD BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",And Tv
+https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And TV BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Asian Food CH HD
@@ -423,9 +425,9 @@ https://acv.asianetmobiletvplus.com/channels/ef22daf97d61acb4bf52376c4105ad02.sm
 https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Sony Entertainment
 https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
-#EXTINF:-1 group-title="Hindi Ent",Sony MAX 2
-http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Sony Max 2
+http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Sony MAX 2
 http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Steel Bird Music FHD
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
@@ -441,16 +443,22 @@ http://173.82.170.226:8080/live/TLC-HD/CH214771/e6b9f8e879f0099901d994a99d678e87
 https://bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Zee TV HD BDXI
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 group-title="Kids", Baby Tv
 http://stream.tapmad.com:1935/pitvlive2/baby_240p/chunklist_w404007879.m3u8
 #EXTINF:-1 group-title="Kids", BBC Cbeebies
-http://173.82.54.226:8080/live/Lifetime/CH214771/ab197a218b0acd65616bbfd3e4496be4476d9fa4e8831d08b599985365fa5321/Lifetime_2_playlist.m3u8
+http://173.82.54.226:8080/live/Lifetime/CH214771/850860809383f6a8df230c11d765a577e579f9763765ef0bbcb30ce8247ed9d6/Lifetime_2_playlist.m3u8
 #EXTINF:-1 group-title="Kids", CN
 http://103.111.120.46/hls/Carton_Network.m3u8
+#EXTINF:-1 group-title="Kids",CN EN
+http://173.82.170.226:8080/live/CARTOON/CH214771/e4012ca6659ecbc37ccabc8bf02d3e3e7460ed7f9212ee8ee208818a00fcd40c/CARTOON_2_playlist.m3u8
 #EXTINF:-1 group-title="Kids", CN In
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
 #EXTINF:-1 group-title="Kids", TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 group-title="Kids", Nick
+http://173.82.159.42:8080/live/NICK/CH214771/d8b4ae36503b1aa8776cc1d21fc5864f3418a752ebeaa4e70f3f5b8468a9adae/NICK_1_playlist.m3u8
 #EXTINF:-1 group-title="Kids", TOONEE Cartoon
 http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654.m3u8
 #EXTINF:-1 group-title="Kids",ANI PLUS FHD
@@ -461,6 +469,8 @@ https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_10000
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior Indo
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="Kids",Disney
+http://173.82.159.42:8080/live/DISENY/CH214771/57729870f38ede65860c1879d9a8d94f93ffec7c884cba1175916862049ef8c6/index.m3u8
 #EXTINF:-1 group-title="Kids",Fan TV
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1 group-title="Kids",Jim Jam TV
@@ -472,7 +482,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 group-title="Kids",Nickelodeon US
 http://173.82.159.42:8080/live/NICK/CH214771/ab5ec299cb56c2382aca97995452d684164b08d1a6feb79b8e3e903b32f66c5f/NICK_1_playlist.m3u8
 #EXTINF:-1 group-title="Kids",Sony YAY
-http://173.82.170.226:8080/live/SONY-YAY/CH214771/70efd55ff09fc934f6e7b7498a30fdd78256c7040411e97f704190616cf01144/SONY-YAY_1_playlist.m3u8
+http://173.82.170.226:8080/live/SONY-YAY/CH214771/0dadca5eedf961165b2339fd5954b29304d93c6be4d6c4d280135b15da26af10/SONY-YAY_1_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Movies 6
@@ -502,21 +512,21 @@ http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3
 #EXTINF:-1 group-title="Movies", AYSAR MOVIE 7
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movies", AYSAR Movie 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", AYSAR Movie 9
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies", AYSAR Movie 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" group-title="Movies", B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png" group-title="Movies", BO TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-logo="https://i.imgur.com/VW5Qk23.png" group-title="Movies", CBC Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1 group-title="Movies", CELESTIAL MOVIES
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-#EXTINF:-1 group-title="Movies", Celestial Movies
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies", Celestial Movies
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 group-title="Movies", Celestial Movies
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 group-title="Movies", CELESTIAL MOVIES
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
 #EXTINF:-1 group-title="Movies", Celestial Movies SD
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bh1iOFz.png" group-title="Movies", Cinefil GR
@@ -534,11 +544,11 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlis
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppcomedytelugu.png" group-title="Movies", Comedy Telugu
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
 #EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
 #EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
 #EXTINF:-1 tvg-id="dmc HD ARB" tvg-name="dmc HD ARB" tvg-logo="https://i.imgur.com/es7v1kI.png" group-title="Movies", DMC HD
 http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
 #EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies", Dubai One
@@ -548,11 +558,11 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="Movies", Groovy
 http://bit.ly/2p6JqSo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies", iFILM English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies", iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies", iFILM English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SMToXWd.png" group-title="Movies", iFILM Persian 2
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2tnZJmq.jpg" group-title="Movies", Imagine Movies
@@ -570,9 +580,9 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action FHD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action SD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
 #EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies", MBC Drama
@@ -628,9 +638,9 @@ https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfia0wN.png" group-title="Movies", Wixlar Movie
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X99lmj6.png" group-title="Movies", WOWOWシネマ
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X99lmj6.png" group-title="Movies", WOWOWシネマ
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X99lmj6.png" group-title="Movies", WOWOWシネマ
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6S9cQR4.jpg" group-title="Movies", Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 group-title="Movies",FilmBox HD
@@ -759,8 +769,10 @@ http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 group-title="Music", M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1394453882.m3u8
-#EXTINF:-1 group-title="Music",Mtv Int BDXI
+#EXTINF:-1 group-title="Music", MTV Int BDXI
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Music", MTV in
+http://173.82.170.226:8080/live/MTV/CH214771/ddd6642802c76f8d8bccb5ddca18ae7f0df02a941509ebb53d6c727f3ee7f209/MTV_2_playlist.m3u8
 #EXTINF:-1 group-title="Music", M6 Music
 http://iptv.ndasat.com:88/live/228455103554472/228455103554472/3675.m3u8
 #EXTINF:-1 group-title="Music", Magic TV
@@ -991,6 +1003,8 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sports", Dsports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Sports", D Sports
+http://173.82.159.42:8080/live/DSPORTS/CH214771/3c452a6d55439a3bad238a33f1e647290c3015c40a065df38520e55c99dec6bf/DSPORTS_2_playlist.m3u8
 #EXTINF:-1 group-title="Sports", PTV Sports
 http://43.231.22.238:8081/temp1/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 group-title="Sports", Real M Tv
@@ -1031,8 +1045,14 @@ http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1474432676.m3u8
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",Fight TV HD
 https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8
+#EXTINF:-1 group-title="Sports",Football TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_480p/index.m3u8
+#EXTINF:-1 group-title="Sports",Goal TV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1 group-title="Sports",Horizon Sports HD
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sports",KSA Sports SD
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MNC Sports 
 https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7.m3u8
 #EXTINF:-1 group-title="Sports",SJS Sports
@@ -1041,16 +1061,16 @@ http://212.47.252.54/hls/stream.m3u8
 http://43.231.22.238:8081/temp1/ctg_skycricket/chunks.m3u8
 #EXTINF:-1 group-title="Sports",Sky Football
 http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Super Sports
+http://niazitv.com:8080/under_19_worldcup/index.m3u8
 #EXTINF:-1 group-title="Sports",Ten Sports
 http://43.231.22.238:8081/temp1/ctg_tensports/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
-#EXTINF:-1 group-title="Sports",Goal TV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
-#EXTINF:-1 group-title="Sports",KSA Sports SD
-https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Football TV
-https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_480p/index.m3u8
+#EXTINF:-1 group-title="Sports",Watan TV
+http://niazitv.com:8080/NiaziTV/BTsports1_1/index.m3u8
+#EXTINF:-1 group-title="Sports",Willow Cricket
+http://niazitv.com:8080/WillowCricket/index.m3u8
 #EXTINF:-1 group-title="World TV", A Tv
 http://176.67.202.21:8880/play/atv2
 #EXTINF:-1 group-title="World TV", Azerbaijan
@@ -1231,74 +1251,6 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="World TV",AD TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:-1 group-title="New",Discovery Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/32_.m3u8
-#EXTINF:-1 group-title="New",Animel Planet Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/25_.m3u8
-#EXTINF:-1 group-title="New",AXN Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/26_.m3u8
-#EXTINF:-1 group-title="New",Bain Sports Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/933_.m3u8
-#EXTINF:-1 group-title="New",CN Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/923_.m3u8
-#EXTINF:-1 group-title="New",C Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/27_.m3u8
-#EXTINF:-1 group-title="New",Direct Sports Plus+ Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/942_.m3u8
-#EXTINF:-1 group-title="New",Direct Sports Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/944_.m3u8
-#EXTINF:-1 group-title="New",Direct Sports 2 Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/943_.m3u8
-#EXTINF:-1 group-title="New",H and H
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/34_.m3u8
-#EXTINF:-1 group-title="New",Discovery Theater Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/37_.m3u8
-#EXTINF:-1 group-title="New",Discovery SCI Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/36_.m3u8
-#EXTINF:-1 group-title="New",HBO Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/61_.m3u8
-#EXTINF:-1 group-title="New",TLC Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/86_.m3u8
-#EXTINF:-1 group-title="New",Tln Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/87_.m3u8
-#EXTINF:-1 group-title="New",SONY Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/78_.m3u8
-#EXTINF:-1 group-title="New",WIN Sports Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/925_.m3u8
-#EXTINF:-1 group-title="New",AXN Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/26_.m3u8
-#EXTINF:-1 group-title="New",Direct Sports 2 Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/943_.m3u8
-#EXTINF:-1 group-title="New",ESPN Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/935_.m3u8
-#EXTINF:-1 group-title="New",ESPN Plus Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/928_.m3u8
-#EXTINF:-1 group-title="New",ESPN 3 Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/934_.m3u8
-#EXTINF:-1 group-title="New",Fox Sports 2 Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/927_.m3u8
-#EXTINF:-1 group-title="New",Fox Sports 3 Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/926_.m3u8
-#EXTINF:-1 group-title="New",Golden Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/58_.m3u8
-#EXTINF:-1 group-title="New",Fox Family Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/63_.m3u8
-#EXTINF:-1 group-title="New",Nick Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/931_.m3u8
-#EXTINF:-1 group-title="New",Nick 2 Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/930_.m3u8
-#EXTINF:-1 group-title="New",Nick jr Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/919_.m3u8
-#EXTINF:-1 group-title="New",SyFy Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/82_.m3u8
-#EXTINF:-1 group-title="New",UniCable Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/91_.m3u8
-#EXTINF:-1 group-title="New",Univision Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/941_.m3u8
-#EXTINF:-1 group-title="New",True Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/90_.m3u8
-#EXTINF:-1 group-title="New",Discovery World Latin
-https://stalkertvlatino.com/ANGELOPLAYANGELOPLAYXXX2/39_.m3u8
 #EXTINF:-1 group-title="New",8XM
 http://51.15.8.16:8081/paki1/8xmhd/playlist.m3u8
 #EXTINF:-1 group-title="New",ARY Zauq
@@ -1325,3 +1277,7 @@ http://51.15.8.16:8081/liveuk/mtv/playlist.m3u8
 http://51.15.8.16:8081/liveuk/tlc/playlist.m3u8
 #EXTINF:-1 group-title="New",Sky movies action
 http://51.15.8.16:8081/liveuk/skymoviesaction/playlist.m3u8
+#EXTINF:-1 group-title="New",TLC Int
+http://173.82.170.226:8080/live/TLC-HD/CH214771/9619b6815a6d39f747d5d932be0e8b74c82078a20b98079d404744efa825de2f/index.m3u8
+#EXTINF:-1 group-title="New",Travel XP
+http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/7216b0cd601cc6fb598acedde0279ff554732bf08a8c5c233583045a79b13c62/TRAVELXP-BANGLA_2_playlist.m3u8
