@@ -445,20 +445,16 @@ https://bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Zee TV HD BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",ARY Zauq
+http://51.15.8.16:8081/paki1/aryzauq/playlist.m3u8
 #EXTINF:-1 group-title="Kids", Baby Tv
 http://stream.tapmad.com:1935/pitvlive2/baby_240p/chunklist_w404007879.m3u8
 #EXTINF:-1 group-title="Kids", BBC Cbeebies
 http://173.82.54.226:8080/live/Lifetime/CH214771/850860809383f6a8df230c11d765a577e579f9763765ef0bbcb30ce8247ed9d6/Lifetime_2_playlist.m3u8
-#EXTINF:-1 group-title="Kids", CN
-http://103.111.120.46/hls/Carton_Network.m3u8
-#EXTINF:-1 group-title="Kids",CN EN
-http://173.82.170.226:8080/live/CARTOON/CH214771/e4012ca6659ecbc37ccabc8bf02d3e3e7460ed7f9212ee8ee208818a00fcd40c/CARTOON_2_playlist.m3u8
-#EXTINF:-1 group-title="Kids", CN In
-http://fr-c.movply.stream/hls/Carton_Network.m3u8
+#EXTINF:-1 group-title="Kids", CN EN
+http://173.82.170.226:8080/live/CARTOON/CH214771/0ea629b1b5dbc70b9bca684c35af166949477459571615733aa27996ac4ca94e/index.m3u8
 #EXTINF:-1 group-title="Kids", TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1 group-title="Kids", Nick
-http://173.82.159.42:8080/live/NICK/CH214771/d8b4ae36503b1aa8776cc1d21fc5864f3418a752ebeaa4e70f3f5b8468a9adae/NICK_1_playlist.m3u8
 #EXTINF:-1 group-title="Kids", TOONEE Cartoon
 http://96.30.124.101:1935/psilive2a/AsianMovie.stream_360p/chunklist_w1575217654.m3u8
 #EXTINF:-1 group-title="Kids",ANI PLUS FHD
@@ -469,8 +465,8 @@ https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_10000
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior Indo
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 group-title="Kids",Disney
-http://173.82.159.42:8080/live/DISENY/CH214771/57729870f38ede65860c1879d9a8d94f93ffec7c884cba1175916862049ef8c6/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney XD
+http://173.82.159.42:8080/live/DISENY/CH214771/b6c0d487fd82af8c771569af5208ad5febdd1906fdf1acafd510d4cd53ce13d5/index.m3u8
 #EXTINF:-1 group-title="Kids",Fan TV
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1 group-title="Kids",Jim Jam TV
@@ -479,10 +475,10 @@ http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/pl
 https://anevia115.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
 #EXTINF:-1 group-title="Kids",Miamo Cartoon TV 
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-#EXTINF:-1 group-title="Kids",Nickelodeon US
-http://173.82.159.42:8080/live/NICK/CH214771/ab5ec299cb56c2382aca97995452d684164b08d1a6feb79b8e3e903b32f66c5f/NICK_1_playlist.m3u8
-#EXTINF:-1 group-title="Kids",Sony YAY
-http://173.82.170.226:8080/live/SONY-YAY/CH214771/0dadca5eedf961165b2339fd5954b29304d93c6be4d6c4d280135b15da26af10/SONY-YAY_1_playlist.m3u8
+#EXTINF:-1 group-title="Kids", Baby Tv
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
+#EXTINF:-1 group-title="Kids", Baby TV 480
+http://livecdnh1.tvanywhere.ae/hls/baby/03.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Movies 6
@@ -949,6 +945,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/01.m3u8
 https://anevia114.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Music",Trace Gospel
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Music",Trace Mizki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
 #EXTINF:-1 group-title="Music",Trace Latina
 https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
 #EXTINF:-1 group-title="Music",Trace Naija
@@ -961,6 +959,10 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1 group-title="Music", Vh1
 http://42.0.6.130/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
+#EXTINF:-1 group-title="Music",8XM
+http://51.15.8.16:8081/paki1/8xmhd/playlist.m3u8
+#EXTINF:-1 group-title="Music",Joo music
+http://51.15.8.16:8081/paki1/joomusic/playlist.m3u8
 #EXTINF:-1 group-title="News", Al Jazeera English
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
 #EXTINF:-1 group-title="News", CGTN
@@ -1004,9 +1006,11 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 #EXTINF:-1 group-title="Sports", Dsports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 group-title="Sports", D Sports
-http://173.82.159.42:8080/live/DSPORTS/CH214771/3c452a6d55439a3bad238a33f1e647290c3015c40a065df38520e55c99dec6bf/DSPORTS_2_playlist.m3u8
+http://173.82.159.42:8080/live/DSPORTS/CH214771/26b20a6e66ccf549d394b7d2bd67fea6632921ad31d1f6b0e3a42e16388d1080/DSPORTS_2_playlist.m3u8
 #EXTINF:-1 group-title="Sports", PTV Sports
 http://43.231.22.238:8081/temp1/ctg_ptvsports/chunks.m3u8
+#EXTINF:-1 group-title="Sports", PTV Sports BDIX
+http://103.58.73.26/streams/118/index.m3u8
 #EXTINF:-1 group-title="Sports", Real M Tv
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1 group-title="Sports", SONY Espn HD
@@ -1071,14 +1075,12 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 http://niazitv.com:8080/NiaziTV/BTsports1_1/index.m3u8
 #EXTINF:-1 group-title="Sports",Willow Cricket
 http://niazitv.com:8080/WillowCricket/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Action Sports
+http://51.15.8.16:8081/liveuk/skymoviesaction/playlist.m3u8
 #EXTINF:-1 group-title="World TV", A Tv
 http://176.67.202.21:8880/play/atv2
 #EXTINF:-1 group-title="World TV", Azerbaijan
 http://streams2.livetv.az/azerbaijan/idmanhd/playlist.m3u8
-#EXTINF:-1 group-title="World TV", Baby Tv
-http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
-#EXTINF:-1 group-title="World TV", Baby TV 480
-http://livecdnh1.tvanywhere.ae/hls/baby/03.m3u8
 #EXTINF:-1 group-title="World TV", BALTI TV HD
 http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 group-title="World TV", Beauty 24
@@ -1251,12 +1253,6 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="World TV",AD TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:-1 group-title="New",8XM
-http://51.15.8.16:8081/paki1/8xmhd/playlist.m3u8
-#EXTINF:-1 group-title="New",ARY Zauq
-http://51.15.8.16:8081/paki1/aryzauq/playlist.m3u8
-#EXTINF:-1 group-title="New",Joo music
-http://51.15.8.16:8081/paki1/joomusic/playlist.m3u8
 #EXTINF:-1 group-title="New",Sony Earth 
 http://51.15.8.16:8081/lolind2/sonyearthsdeng/playlist.m3u8
 #EXTINF:-1 group-title="New",Discovery hd
@@ -1275,9 +1271,3 @@ http://51.15.8.16:8081/liveuk/discoverysci/playlist.m3u8
 http://51.15.8.16:8081/liveuk/mtv/playlist.m3u8
 #EXTINF:-1 group-title="New",TLC UK
 http://51.15.8.16:8081/liveuk/tlc/playlist.m3u8
-#EXTINF:-1 group-title="New",Sky movies action
-http://51.15.8.16:8081/liveuk/skymoviesaction/playlist.m3u8
-#EXTINF:-1 group-title="New",TLC Int
-http://173.82.170.226:8080/live/TLC-HD/CH214771/9619b6815a6d39f747d5d932be0e8b74c82078a20b98079d404744efa825de2f/index.m3u8
-#EXTINF:-1 group-title="New",Travel XP
-http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/7216b0cd601cc6fb598acedde0279ff554732bf08a8c5c233583045a79b13c62/TRAVELXP-BANGLA_2_playlist.m3u8
