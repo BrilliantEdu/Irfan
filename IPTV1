@@ -10,9 +10,9 @@ http://23.106.120.42:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="Bangla", Jamuna TV
 http://telelivetv.webredirect.org:8081/globeworld2020/jamunatv/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", News 24
-http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+http://23.106.120.42:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", DBC News
-http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/dbc/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Somoy TV BDXI
 http://103.58.73.26/streams/103/index.m3u8
 #EXTINF:-1 group-title="Bangla", Gazi TV (Opt-1)
@@ -189,8 +189,6 @@ https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent", ARY Musik
 https://stream.arylive.com/MusikLive/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Ent", ARY Zauq
-http://51.15.8.16:8081/paki1/aryzauq/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", AXN AOS 
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Bollywood HD
@@ -231,10 +229,6 @@ http://42.0.6.130/hls/UxLS6bC_Gi7QivozQp4CcA/1568453439/hum_sitarey_low/index.m3
 http://stream.tapmad.com:1935/pitvlive2/humtvnew3/chunklist_w158166534.m3u8
 #EXTINF:-1 group-title="Hindi Ent", KiX HD
 http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Kix SD
-https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Masala HD
-https://streamer-1.toffeelive.com/live/hum_masala_720/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Masala TV
 https://stream.simpaisa.com/pitvlive2/masalanew3_240p/chunklist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Nat Geo BDIX 
@@ -255,12 +249,8 @@ http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Star Plus HD
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Ent", TLC
-http://178.196.237.240:3000/play/xxTLCxx
 #EXTINF:-1 group-title="Hindi Ent", TLC HD World Ola
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Ent", TLC in Ola
-http://51.15.8.16:8081/lolind2/tlc/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", TLC TK
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Vh1 In
@@ -279,8 +269,6 @@ http://42.0.6.130/hls/dV0PV-wCtDiDG_7ZUudoiA/1568454156/zee_classic_low/index.m3
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zee Cinema HD
 http://216.144.250.174/Zee_CInema_HD/index.m3u8
-#EXTINF:-1 group-title="Hindi Ent", Zee Cinema SD
-http://173.82.170.226:8080/live/ZEE-CINEMA/CH214771/1b33a5035c603ad5d225ef72c82d8478748c4c2928289ef83368f2f2ef23eb76/ZEE-CINEMA_1_playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zee TV HD BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent", Zee Tv In
@@ -776,23 +764,15 @@ https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 group-title="Movies",Cinemax HD AOS
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music", 30A Music
-http://30a-tv.com/music.m3u8?fluxustv.m3u8
+http://30a-tv.com/music.m3u8
 #EXTINF:-1 group-title="Music", 9X0 BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xo/index.m3u8
-#EXTINF:-1 group-title="Music", 7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="Music", A2i TV Musique
-http://162.212.178.131:1935/live/Ai2tvmusique/chunklist.m3u8
-#EXTINF:-1 group-title="Music", AlbMUSIC
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music", Amarin HD
 http://103.120.113.90:1935/psilive1a/AmarinHD.stream_360p/chunklist_w585897880.m3u8
 #EXTINF:-1 group-title="Music", Arabica Music
 http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
 #EXTINF:-1 group-title="Music", Baraza Music TV HD
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="Music", Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="Music", Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Music", City Music TV
@@ -839,8 +819,6 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 http://82.212.74.3:8000/live/7514.m3u8
 #EXTINF:-1 group-title="Music", EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 group-title="Music", Eco Tv 24
-http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 group-title="Music", EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1 group-title="Music", Fresh TV
@@ -849,8 +827,6 @@ https://strm.yandex.ru/kal/fresh/fresh0.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 group-title="Music", Groovy
 http://bit.ly/2p6JqSo
-#EXTINF:-1 group-title="Music", Hip Hop TV
-http://41.223.30.250:5000/hiphoptv/hiphoptv/chunklist.m3u8
 #EXTINF:-1 group-title="Music", IndieWave
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 group-title="Music", Jhanjar Music
@@ -883,26 +859,16 @@ http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1394453882.m3u8
 #EXTINF:-1 group-title="Music", MTV Int BDXI
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="Music", MTV in
-http://173.82.170.226:8080/live/MTV/CH214771/ddd6642802c76f8d8bccb5ddca18ae7f0df02a941509ebb53d6c727f3ee7f209/MTV_2_playlist.m3u8
-#EXTINF:-1 group-title="Music", M6 Music
-http://iptv.ndasat.com:88/live/228455103554472/228455103554472/3675.m3u8
 #EXTINF:-1 group-title="Music", Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="Music", Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 group-title="Music", Mazzika
 http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
 #EXTINF:-1 group-title="Music", Mazzika
 http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
 #EXTINF:-1 group-title="Music", Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
-#EXTINF:-1 group-title="Music", MFM TV
-https://mfmtv.vedge.infomaniak.com/livecast/mfmtv/chunklist.m3u8
 #EXTINF:-1 group-title="Music", Mifa
 http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
-#EXTINF:-1 group-title="Music", Mix TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 group-title="Music", MM
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music", MOOZ Dance
@@ -939,8 +905,6 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
 #EXTINF:-1 group-title="Music", Music Top
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="Music", MusicBox UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Music", Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 #EXTINF:-1 group-title="Music", Navahang
@@ -1025,8 +989,6 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 #EXTINF:-1 group-title="Music", V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Music", V2BEAT TV
-http://de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Music", Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/index.m3u8
 #EXTINF:-1 group-title="Music", Óčko
@@ -1076,23 +1038,17 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 group-title="Music",Trace Kitoko Ola
 http://gofastiptv.live:8080/live/zengi4/1kwo8ndjof/16887.m3u8
 #EXTINF:-1 group-title="Music",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 #EXTINF:-1 group-title="Music",Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 #EXTINF:-1 group-title="Music",Trace Africa Ola
 http://gofastiptv.live:8080/live/zengi4/1kwo8ndjof/16889.m3u8
 #EXTINF:-1 group-title="Music",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban Ola
 http://clientportal.link:80/live/mzYIUzn4N25/EZ9fcp44/18261.m3u8
-#EXTINF:-1 group-title="Music",Vh1
-http://42.0.6.130/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
-#EXTINF:-1 group-title="Music",8XM
-http://51.15.8.16:8081/paki1/8xmhd/playlist.m3u8
-#EXTINF:-1 group-title="Music",Joo music
-http://51.15.8.16:8081/paki1/joomusic/playlist.m3u8
 #EXTINF:-1 group-title="Music",FM Italia
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 #EXTINF:-1 group-title="Music",MTV Norge
@@ -1115,10 +1071,6 @@ http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
 http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
 #EXTINF:-1 group-title="Music",EZIDXANTV MUSIK elm
 http://45.139.184.179/EZIDXANTVMUSIK/1080/HD/index.m3u8
-#EXTINF:-1 group-title="Music",MTV uk
-http://51.15.8.16:8081/liveuk/mtv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Music Box New W
-http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:-1 group-title="News",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="News",Al Jazeera JG
@@ -1152,7 +1104,7 @@ https://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",DW JG
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="News",DW HD
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+http://23.106.120.42:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="News",France 24 EN
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="News",Euro News Ru
@@ -1559,10 +1511,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" group-title="World TV", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="novy-mir" tvg-name="Новый мир" group-title="World TV", Новый мир
-http://persik.by/stream/8682/252987/10231.m3u8
-#EXTINF:-1 tvg-id="novy-mir" tvg-name="Новый мир" group-title="World TV", Новый мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ" tvg-logo="https://iptvx.one/icn/ont-by.png" group-title="World TV", ОНТ
 http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/330px-OTR_2013_logo.svg.png" group-title="World TV", ОТР
@@ -1811,12 +1759,6 @@ http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="World TV",CinemaWorld (Opt-3)
 http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF:-1 group-title="World TV",D Tv
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J7JNgQO.png" group-title="World TV",Diva (Opt-1)
-http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J7JNgQO.png" group-title="World TV",Diva (Opt-2)
-http://45.126.83.51/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J7JNgQO.png" group-title="World TV",Diva (Opt-3)
 http://45.126.83.51/dr9445/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCXgzNr.png" group-title="World TV",E!
@@ -1825,14 +1767,6 @@ http://45.126.83.51/dr9445/h/h10/index.m3u8
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kx0WDLt.png" group-title="World TV",Elshinta TV (Opt-2)
 http://45.126.83.51/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxvuKOI.png" group-title="World TV",Fine Living
-http://ott-cdn.ucom.am/s51/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="World TV",Global TV (Opt-1)
-http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="World TV",Global TV (Opt-2)
-http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8
-#EXTINF:-1 group-title="World TV",GTV indo
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="World TV",Hits (Opt-1)
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="World TV",Hits (Opt-2)
@@ -1857,10 +1791,6 @@ http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvRrcXy.png" group-title="World TV",Kix (Opt-2)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SvRrcXy.png" group-title="World TV",Kix (Opt-3)
-http://45.126.83.51/uq2663/h/h07/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="World TV",Kompas (Opt-1)
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="World TV",Kompas (Opt-2)
 http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="World TV",Life Time
@@ -1937,8 +1867,6 @@ http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WPjrg6.png" group-title="World TV",RBTV Bengkulu
 http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="World TV",RCTI (Opt-1)
-http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="World TV",SCTV (Opt-2)
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="World TV",SCTV (Opt-3)
@@ -1999,267 +1927,3 @@ http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="World TV", Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="Roar IP TV",9X Jalwa
-http://tvserver.roarzone.info:8081/91/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",9XM
-http://tvserver.roarzone.info:8081/90/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",9XO
-http://tvserver.roarzone.info:8081/92/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Akash 8
-http://tvserver.roarzone.info:8081/108/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Akash 8
-http://tvserver.roarzone.info:8081/46/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",And Flix HD
-http://tvserver.roarzone.info:8081/78/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",And pictures HD
-http://tvserver.roarzone.info:8081/77/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",And Prive HD
-http://tvserver.roarzone.info:8081/79/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",And TV HD
-http://tvserver.roarzone.info:8081/80/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Animel Planet 
-http://tvserver.roarzone.info:8081/45/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Anondo TV
-http://tvserver.roarzone.info:8081/39/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Asian TV
-http://tvserver.roarzone.info:8081/15/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",ATN Bangla
-http://tvserver.roarzone.info:8081/16/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",ATN Islamic TV
-http://tvserver.roarzone.info:8081/111/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",ATN News
-http://tvserver.roarzone.info:8081/17/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",B4U Kadak
-http://tvserver.roarzone.info:8081/132/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",B4U Movies
-http://tvserver.roarzone.info:8081/124/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",B4U Music
-http://tvserver.roarzone.info:8081/140/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Bangla TV
-http://tvserver.roarzone.info:8081/145/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Bangla Vison
-http://tvserver.roarzone.info:8081/18/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",BBC Earth HD
-http://tvserver.roarzone.info:8081/88/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Bein Sports
-http://tvserver.roarzone.info:8081/129/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Bein Sports HD
-http://tvserver.roarzone.info:8081/73/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Bijoy Tv
-http://tvserver.roarzone.info:8081/101/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Boishakhi
-http://tvserver.roarzone.info:8081/19/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",BT Sports 1 HD
-http://tvserver.roarzone.info:8081/144/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",BT Sports 2 HD
-http://tvserver.roarzone.info:8081/141/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",BTV
-http://tvserver.roarzone.info:8081/4/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Btv World
-http://tvserver.roarzone.info:8081/104/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",ch
-http://tvserver.roarzone.info:8081/49/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Channel 24
-http://tvserver.roarzone.info:8081/21/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Channel 9
-http://tvserver.roarzone.info:8081/20/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Channel i
-http://tvserver.roarzone.info:8081/22/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",CN
-http://tvserver.roarzone.info:8081/120/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Colors Bangla HD
-http://tvserver.roarzone.info:8081/36/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Colors Cineplex
-http://tvserver.roarzone.info:8081/100/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Colors HD
-http://tvserver.roarzone.info:8081/13/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",D Sports
-http://tvserver.roarzone.info:8081/135/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",DBC HD
-http://tvserver.roarzone.info:8081/23/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Desh TV
-http://tvserver.roarzone.info:8081/25/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Dhoom
-http://tvserver.roarzone.info:8081/115/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Dil Se 
-http://tvserver.roarzone.info:8081/103/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Dil Se Hungama
-http://tvserver.roarzone.info:8081/110/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Dipto HD
-http://tvserver.roarzone.info:8081/24/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Discovery
-http://tvserver.roarzone.info:8081/44/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Discovery HD
-http://tvserver.roarzone.info:8081/89/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Disney CH
-http://tvserver.roarzone.info:8081/126/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Disney Junior
-http://tvserver.roarzone.info:8081/125/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Duronto
-http://tvserver.roarzone.info:8081/26/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Ekattor TV HD
-http://tvserver.roarzone.info:8081/27/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",ETV
-http://tvserver.roarzone.info:8081/28/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Fox Life
-http://tvserver.roarzone.info:8081/87/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Geo Super
-http://tvserver.roarzone.info:8081/66/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",H2
-http://tvserver.roarzone.info:8081/5/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",HBO
-http://tvserver.roarzone.info:8081/74/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Independent TV
-http://tvserver.roarzone.info:8081/29/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Iqra Bangla
-http://tvserver.roarzone.info:8081/109/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Jalsha Movies
-http://tvserver.roarzone.info:8081/38/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Jamuna TV
-http://tvserver.roarzone.info:8081/30/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Lotus Macua
-http://tvserver.roarzone.info:8081/75/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Massranga
-http://tvserver.roarzone.info:8081/14/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Masti TV
-http://tvserver.roarzone.info:8081/117/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",MBC Action
-http://tvserver.roarzone.info:8081/127/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",MNX
-http://tvserver.roarzone.info:8081/139/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Movies Now
-http://tvserver.roarzone.info:8081/137/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",My TV HD
-http://tvserver.roarzone.info:8081/43/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Nagorik TV HD
-http://tvserver.roarzone.info:8081/32/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Nat Geo People
-http://tvserver.roarzone.info:8081/7/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",National Geo
-http://tvserver.roarzone.info:8081/148/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",News 24
-http://tvserver.roarzone.info:8081/105/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Nick
-http://tvserver.roarzone.info:8081/41/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Ntv
-http://tvserver.roarzone.info:8081/31/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Peace Bangla
-http://tvserver.roarzone.info:8081/52/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",PPTV 36 HD
-http://tvserver.roarzone.info:8081/128/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",PTV Sports
-http://tvserver.roarzone.info:8081/65/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Romedy Now
-http://tvserver.roarzone.info:8081/138/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Rtv HD
-http://tvserver.roarzone.info:8081/33/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",SA Tv HD
-http://tvserver.roarzone.info:8081/34/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sky Sports 
-http://tvserver.roarzone.info:8081/136/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sky Sports HD
-http://tvserver.roarzone.info:8081/122/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Somoy TV
-http://tvserver.roarzone.info:8081/106/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Somoy TV
-http://tvserver.roarzone.info:8081/35/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Songget Bangla
-http://tvserver.roarzone.info:8081/53/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sonic TV
-http://tvserver.roarzone.info:8081/40/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony 8
-http://tvserver.roarzone.info:8081/47/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony ESPN HD
-http://tvserver.roarzone.info:8081/58/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony MAX
-http://tvserver.roarzone.info:8081/82/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony Max 2
-http://tvserver.roarzone.info:8081/83/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony Mix
-http://tvserver.roarzone.info:8081/93/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony PIX
-http://tvserver.roarzone.info:8081/146/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony SAB
-http://tvserver.roarzone.info:8081/84/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony SIX
-http://tvserver.roarzone.info:8081/59/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony Ten 1
-http://tvserver.roarzone.info:8081/55/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony Ten 2
-http://tvserver.roarzone.info:8081/56/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony Ten 3
-http://tvserver.roarzone.info:8081/57/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony TV
-http://tvserver.roarzone.info:8081/81/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Sony YAY
-http://tvserver.roarzone.info:8081/54/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Bharat
-http://tvserver.roarzone.info:8081/118/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Bharat
-http://tvserver.roarzone.info:8081/85/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Gold
-http://tvserver.roarzone.info:8081/12/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Jolsha HD
-http://tvserver.roarzone.info:8081/37/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Movies HD
-http://tvserver.roarzone.info:8081/113/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Plus HD
-http://tvserver.roarzone.info:8081/11/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Sports 1
-http://tvserver.roarzone.info:8081/60/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Sports 2 HD
-http://tvserver.roarzone.info:8081/61/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star Sports Select 2 HD
-http://tvserver.roarzone.info:8081/63/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Star World HD
-http://tvserver.roarzone.info:8081/116/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Ten Sports
-http://tvserver.roarzone.info:8081/133/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 1
-http://tvserver.roarzone.info:8081/142/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 10
-http://tvserver.roarzone.info:8081/6/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 11
-http://tvserver.roarzone.info:8081/42/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 2
-http://tvserver.roarzone.info:8081/62/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 3
-http://tvserver.roarzone.info:8081/71/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 4
-http://tvserver.roarzone.info:8081/72/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 5
-http://tvserver.roarzone.info:8081/143/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 6
-http://tvserver.roarzone.info:8081/131/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 7
-http://tvserver.roarzone.info:8081/121/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 8
-http://tvserver.roarzone.info:8081/114/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Test 9
-http://tvserver.roarzone.info:8081/147/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Time TV
-http://tvserver.roarzone.info:8081/99/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Willow HD
-http://tvserver.roarzone.info:8081/119/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Wion TV
-http://tvserver.roarzone.info:8081/86/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee 24gonta
-http://tvserver.roarzone.info:8081/50/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee Bangla
-http://tvserver.roarzone.info:8081/48/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee Bangla Cinema
-http://tvserver.roarzone.info:8081/9/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee Bangla Cinema
-http://tvserver.roarzone.info:8081/107/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee Bollywood
-http://tvserver.roarzone.info:8081/10/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee Cafe HD
-http://tvserver.roarzone.info:8081/76/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee ETC
-http://tvserver.roarzone.info:8081/94/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zee TV HD
-http://tvserver.roarzone.info:8081/8/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zing
-http://tvserver.roarzone.info:8081/102/index.m3u8
-#EXTINF:-1 group-title="Roar IP TV",Zooom
-http://tvserver.roarzone.info:8081/112/index.m3u8
