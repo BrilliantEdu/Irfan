@@ -86,7 +86,7 @@ http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", NRB TV JG
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", NTV
-http://103.118.76.234:1935/tvprogram/N-TV/chunklist.m3u8
+http://173.82.159.42:8080/live/NTV/CH214771/310daf153083e8a24edcb5781eaf5fc9057f5f56298a26c97c7fc57e43a56caf/index.m3u8
 #EXTINF:-1 group-title="Bangla", NTV EU JG
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Orange Bangla
@@ -181,6 +181,8 @@ http://103.68.116.50/live/feed1009/index.m3u8
 http://ideabytes.live-s.cdn.bitgravity.com/cdn-live/_definst_/ideabytes/live/Feed1_3000k/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Gazi TV (Opt-2)
 http://fr-c.movply.stream/hls/gazi-tv.m3u8
+#EXTINF:-1 group-title="Bangla", Magic Bangla
+http://128.199.212.160/magicbanglatv/1080/index.m3u8
 #EXTINF:-1 group-title="Bangla", Zee Bangla Cinema (Opt-1)
 http://103.205.133.42:1935/local/zee_bangla_cinema_720/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Ent", 69 Tv
@@ -279,6 +281,8 @@ http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 http://42.0.6.130/hls/O7fnqtaudubVDJ9r1Ns1XA/1568453124/zoom_hi/index.m3u8
 #EXTINF:-1 tvg-id="vkusnoe-tv" tvg-name="Вкусное TV" group-title="Hindi Ent", Вкусное ТВ
 http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Living Foodz
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",9XO HD
 https://m-c01-j2apps.s.llnwi.net/live/0876.9XO.in.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Al-ISTIQAMA TV
@@ -291,6 +295,8 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3
 https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",And TV BDXI
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",And TV HD 
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Asian Food CH HD
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Hindi Ent",Bambarbia Travel FHD
@@ -427,6 +433,18 @@ http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 group-title="Hindi Ent",YTN Science New W
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Only Music
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Channel Y
+http://cdn19.live247stream.com/channely/tv/channely/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Halchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Abb Music
+http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Mh1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Ent",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Kids", TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 group-title="Kids", TOONEE Cartoon
@@ -1107,6 +1125,8 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 http://23.106.120.42:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="News",France 24 EN
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="News",France 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 group-title="News",Euro News Ru
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="News",News Net
@@ -1115,6 +1135,8 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 group-title="News",NHK World Japan
 http://210.210.155.35/session/72a0799e-6cd1-11ea-9a47-a2e4b863c2e4/uq2663/h/h23/01.m3u8
+#EXTINF:-1 group-title="News",Mirror News
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="News",Sky News HD
@@ -1127,12 +1149,18 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/uatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="News",VOA JG
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/chunks.m3u8
+#EXTINF:-1 group-title="News",Wion TV
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 #EXTINF:-1 group-title="News",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="News",Report TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #EXTINF:-1 group-title="News",Fox News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_1_1264000.m3u8
 #EXTINF:-1 group-title="News",Jakarta Global
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+#EXTINF:-1 group-title="News",Zee News
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 #EXTINF:-1 group-title="News",RT News
 https://rt-news-gd.secure2.footprint.net/1103_800Kb.m3u8
 #EXTINF:-1 group-title="News",RT English News (Low)
@@ -1254,13 +1282,13 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sports", Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sports", Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sports", Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sports", Rai Sport
 http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="Sports", Real Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8?fluxustv.m3u8
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports", Real M Tv
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1 group-title="Sports", Real Madrid
@@ -1269,8 +1297,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sports", Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042869.jpg" group-title="Sports", REAL MADRID TV ESP
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports", Red Bull TV
@@ -1889,8 +1915,6 @@ http://45.126.83.51/uq2663/h/h20/index.m3u8
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPMUC1e.png" group-title="World TV",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A4oAMGm.png" group-title="World TV",The Indonesia Channel
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="World TV",Thrill (Opt-1)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="World TV",Thrill (Opt-2)
@@ -1927,3 +1951,5 @@ http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="World TV", Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="World TV", Pro TV
+http://hls.protv.md/hls/protv.m3u8
