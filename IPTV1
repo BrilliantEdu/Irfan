@@ -2061,3 +2061,233 @@ http://i.mjh.nz/nz/tv.20.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 group-title="World TV",Ren TV International
 http://ad-hls-rentv.cdnvideo.ru:80/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="RT",Channel 1
+http://163.172.12.21:8090/CR/1/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 2
+http://103.58.73.26/streams/106/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 3
+http://103.58.73.26/streams/110/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 4
+http://103.58.73.26/streams/105/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 5
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 group-title="RT",Channel 6
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 group-title="RT",Channel 7
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 group-title="RT",Channel 8
+http://103.58.73.26/streams/114/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 9
+http://tv.ebox.live/live/starsports-1-hind.m3u8
+#EXTINF:-1 group-title="RT",Channel 10
+http://103.58.73.26/streams/1004/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 11
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1 group-title="RT",Channel 12
+http://103.58.73.26/streams/116/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 13
+http://tv.ebox.live/live/starsports-3.m3u8
+#EXTINF:-1 group-title="RT",Channel 14
+http://tv.ebox.live/live/willow-cric.m3u8
+#EXTINF:-1 group-title="RT",Channel 15
+http://190.2.150.50:6393/80SkySportsCricket/video.m3u8?token=l5g6IWLxh1
+#EXTINF:-1 group-title="RT",Channel 16
+http://163.172.12.21:8090/CR/6/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 17
+http://190.2.148.9:6390/104GEOSUPER/video.m3u8?token=ECl-h2gbj0
+#EXTINF:-1 group-title="RT",Channel 18
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="RT",Channel 19
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 group-title="RT",Channel 20
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b200000.m3u8
+#EXTINF:-1 group-title="RT",Channel 21
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 group-title="RT",Channel 22
+http://tv.ebox.live/live/ptvsports.m3u8
+#EXTINF:-1 group-title="RT",Channel 23
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 group-title="RT",Channel 24
+http://163.172.12.21:8090/CR/2/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 25
+http://51.158.144.115:8090/CR/3/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 26
+http://tv.ebox.live/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1 group-title="RT",Channel 27
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 group-title="RT",Channel 28
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1 group-title="RT",Channel 29
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 30
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="RT",Channel 31
+http://tv.ebox.live/live/bein-sports-1.m3u8
+#EXTINF:-1 group-title="RT",Channel 32
+http://tv.ebox.live/live/bein-sports-2.m3u8
+#EXTINF:-1 group-title="RT",Channel 33
+http://tv.ebox.live/live/bein-sports-eng-11.m3u8
+#EXTINF:-1 group-title="RT",Channel 34
+http://tv.ebox.live/live/bein-sports-fr-1.m3u8
+#EXTINF:-1 group-title="RT",Channel 35
+http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="RT",Channel 36
+http://160.119.77.50/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 37
+http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="RT",Channel 38
+http://160.119.77.50/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 39
+http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="RT",Channel 40
+http://160.119.77.50/iptv/epl-3.stream/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 41
+http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="RT",Channel 42
+http://160.119.77.50/iptv/epl-4.stream/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 43
+http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="RT",Channel 44
+http://160.119.77.50/iptv/hd-tsport2.stream/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 45
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 46
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 47
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 group-title="RT",Channel 48
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1519986140.m3u8
+#EXTINF:-1 group-title="RT",Channel 49
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="RT",Channel 50
+http://ddn.amrbd.com:8081/live/adsports3/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 51
+http://ddn.amrbd.com:8081/live/adsports4/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 52
+http://5.135.92.133:52841/out/u/511_1.m3u8
+#EXTINF:-1 group-title="RT",Channel 53
+http://190.2.150.50:6393/125WillowCricket/video.m3u8?token=l5g6IWLxh1
+#EXTINF:-1 group-title="RT",Channel 54
+http://216.144.250.174/Sony_SIx_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 55
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+#EXTINF:-1 group-title="RT",Channel 56
+http://43.251.86.2:8080/hls/channel_3.m3u8
+#EXTINF:-1 group-title="RT",Channel 57
+http://tv.ebox.live/live/starsportsselect-1.m3u8
+#EXTINF:-1 group-title="RT",Channel 58
+http://tv.ebox.live/live/starsportshd-2.m3u8
+#EXTINF:-1 group-title="RT",Channel 59
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 60
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 group-title="RT",Channel 61
+http://tv.ebox.live/live/sonyten-2.m3u8
+#EXTINF:-1 group-title="RT",Channel 62
+http://103.58.73.26/streams/112/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 63
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 64
+http://tv.ebox.live/live/sonyten-3.m3u8
+#EXTINF:-1 group-title="RT",Channel 1
+http://tv.ebox.live/live/sony-max.m3u8
+#EXTINF:-1 group-title="RT",Channel 2
+http://tv.ebox.live/live/sony-max-2.m3u8
+#EXTINF:-1 group-title="RT",Channel 3
+http://tv.ebox.live/live/sony-pix.m3u8
+#EXTINF:-1 group-title="RT",Channel 4
+http://tv.ebox.live/live/star-gold.m3u8
+#EXTINF:-1 group-title="RT",Channel 5
+http://tv.ebox.live/live/star-gold-select.m3u8
+#EXTINF:-1 group-title="RT",Channel 6
+http://tv.ebox.live/live/sony-sab.m3u8
+#EXTINF:-1 group-title="RT",Channel 7
+http://tv.ebox.live/live/sonyhd.m3u8
+#EXTINF:-1 group-title="RT",Channel 8
+http://216.144.250.174/Zee_TV_HD_o1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 9
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 10
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 11
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 12
+http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 13
+http://216.144.250.174/Zee_TalkIes_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 14
+http://live.airteltvplus.com/hls/dV0PV-wCtDiDG_7ZUudoiA/1568454156/zee_classic_hi/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 15
+http://216.144.250.174/Zee_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 16
+http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 17
+http://tv.ebox.live/live/colors.m3u8
+#EXTINF:-1 group-title="RT",Channel 18
+http://103.111.120.46/hls/Colors.m3u8?BDTV
+#EXTINF:-1 group-title="RT",Channel 19
+http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 20
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 21
+http://216.144.250.174/ZIng_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 22
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
+#EXTINF:-1 group-title="RT",Channel 23
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xo/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 24
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 25
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 26
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 27
+http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+#EXTINF:-1 group-title="RT",Channel 28
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 29
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 30
+http://103.205.133.42:1935/live/ntv_320/index.m3u8?banglatvbkash
+#EXTINF:-1 group-title="RT",Channel 31
+http://103.205.133.42:1935/live/ntv_320/chunklist_w181956011.m3u8?banglatvbkash
+#EXTINF:-1 group-title="RT",Channel 32
+http://tv.ebox.live/live/color-Infinity.m3u8
+#EXTINF:-1 group-title="RT",Channel 33
+http://103.58.73.26/streams/111/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 34
+http://tv.ebox.live/live/hbo.m3u8
+#EXTINF:-1 group-title="RT",Channel 35
+http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
+#EXTINF:-1 group-title="RT",Channel 36
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RT",Channel 37
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/chunklist_w1573546487_b369608_slEN.m3u8?nimblesessionid=369522140
+#EXTINF:-1 group-title="RT",Channel 38
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ztvhdusa/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 39
+http://tv.ebox.live/live/zee-tv.m3u8
+#EXTINF:-1 group-title="RT",Channel 40
+http://216.144.250.174/S0ny_TV_HD_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 41
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 42
+http://tv.ebox.live/live/zee-cinema.m3u8
+#EXTINF:-1 group-title="RT",Channel 43
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 44
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 45
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 46
+http://vidnetcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="RT",Channel 47
+http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+#EXTINF:-1 group-title="RT",Channel 48
+http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RT",Channel 49
+http://fr-c.movply.stream/hls/Colors.m3u8?token=MTAzLjEyNC4xMTEuMTU0LXRva2VuMS0xNTg1OTI2ODM2
+#EXTINF:-1 group-title="RT",Channel 50
+http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
+
