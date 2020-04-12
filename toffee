@@ -156,120 +156,120 @@ http://103.205.133.14/hls/gtv.m3u8
 #EXTINF:-1 group-title="Toffee",Colors Bangla
 http://103.205.133.19/hls/etvbangla.m3u8
 #EXTINF:-1 group-title="Toffee",TravelXP HD
-http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/4a8cae33f0c2fc444e06343a5194fc49d3eec0fcdde8e0817857d6ffab26247a/index.m3u8
+http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/b4c5bd70899e5a8e97a5d47d9dda6bd184c9b60cd543891cb4cbaf05c3d22ab2/TRAVELXP-BANGLA_2_playlist.m3u8
 #EXTINF:-1 group-title="Toffee",TLC HD
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 1
+#EXTINF:-1 group-title="Ebox Live",Gazi TV HD
 http://tv.ebox.live:8080/live/gazi-tv.m3u8
 #EXTINF:-1 group-title="Ebox Live",Channel 2
 http://tv.ebox.live:8080/live/banae3.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 3
+#EXTINF:-1 group-title="Ebox Live",ATN Bangla
 http://tv.ebox.live:8080/live/atnbd1.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 4
+#EXTINF:-1 group-title="Ebox Live",Channel i HD
 http://tv.ebox.live:8080/live/chi.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 5
+#EXTINF:-1 group-title="Ebox Live",Rtv HD
 http://tv.ebox.live:8080/live/rtv.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 6
+#EXTINF:-1 group-title="Ebox Live",Boishakhi TV
 http://tv.ebox.live:8080/live/boishakhi.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 7
+#EXTINF:-1 group-title="Ebox Live",Ekattor TV HD
 http://tv.ebox.live:8080/live/ekattor1.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 8
+#EXTINF:-1 group-title="Ebox Live",News 24 HD
 http://tv.ebox.live:8080/live/news24.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 9
+#EXTINF:-1 group-title="Ebox Live",DBC HD
 http://tv.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1 group-title="Ebox Live",Channel 10
 http://tv.ebox.live:8080/live/ex-atnae.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 11
+#EXTINF:-1 group-title="Ebox Live",Gaan Bangla HD
 http://tv.ebox.live:8080/live/gan.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 12
+#EXTINF:-1 group-title="Ebox Live",Massranga HD
 http://tv.ebox.live:8080/live/mass.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 13
+#EXTINF:-1 group-title="Ebox Live",Maasranga HD
 http://tv.ebox.live:8080/live/maasranga.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 14
+#EXTINF:-1 group-title="Ebox Live",CH 9
 http://tv.ebox.live:8080/live/channel9.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 15
+#EXTINF:-1 group-title="Ebox Live",Sony SIX
 http://tv.ebox.live:8080/live/sonysix.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 16
+#EXTINF:-1 group-title="Ebox Live",Sony ESPN
 http://tv.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 17
+#EXTINF:-1 group-title="Ebox Live",Ten 1
 http://tv.ebox.live:8080/live/sonyten-1.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 18
+#EXTINF:-1 group-title="Ebox Live",Ten 2
 http://tv.ebox.live:8080/live/sonyten-2.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 19
+#EXTINF:-1 group-title="Ebox Live",Ten 3
 http://tv.ebox.live:8080/live/sonyten-3.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 20
+#EXTINF:-1 group-title="Ebox Live",Ten Spors
 http://tv.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 21
+#EXTINF:-1 group-title="Ebox Live",Willow HD
 http://tv.ebox.live:8080/live/willow-cric.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 22
+#EXTINF:-1 group-title="Ebox Live",PTV Sports
 http://tv.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 23
+#EXTINF:-1 group-title="Ebox Live",Sky Cricket
 http://tv.ebox.live:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 24
+#EXTINF:-1 group-title="Ebox Live",Sky Sports MIx
 http://tv.ebox.live:8080/live/Sky-Sports-Mix.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 25
+#EXTINF:-1 group-title="Ebox Live",Bein Sports 1
 http://tv.ebox.live:8080/live/bein-sports-1.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 26
+#EXTINF:-1 group-title="Ebox Live",Bein Sports 2
 http://tv.ebox.live:8080/live/bein-sports-2.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 27
+#EXTINF:-1 group-title="Ebox Live",Bein Sports 11
 http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 28
+#EXTINF:-1 group-title="Ebox Live",Bein Sports HD
 http://tv.ebox.live:8080/live/bein-sports-fr-1.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 29
+#EXTINF:-1 group-title="Ebox Live",Star Sports 1
 http://tv.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 30
+#EXTINF:-1 group-title="Ebox Live",Star Sports 1 HD
 http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 31
+#EXTINF:-1 group-title="Ebox Live",Star Sports Select 2 HD
 http://tv.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 32
+#EXTINF:-1 group-title="Ebox Live",Star Sports 3
 http://tv.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 33
+#EXTINF:-1 group-title="Ebox Live",Star Sports Select 1
 http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 34
+#EXTINF:-1 group-title="Ebox Live",Star Sports Select 2
 http://tv.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 35
+#EXTINF:-1 group-title="Ebox Live",Zee Bangla
 http://tv.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 36
+#EXTINF:-1 group-title="Ebox Live",Star Jalsha
 http://tv.ebox.live:8080/live/star-jalsha.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 37
+#EXTINF:-1 group-title="Ebox Live",Colors Bangla
 http://tv.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 38
+#EXTINF:-1 group-title="Ebox Live",Zee Cinema Bangla
 http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 39
+#EXTINF:-1 group-title="Ebox Live",Jalsha Movies
 http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 40
+#EXTINF:-1 group-title="Ebox Live",Star Plus
 http://tv.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 41
+#EXTINF:-1 group-title="Ebox Live",Zee TV
 http://tv.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 42
+#EXTINF:-1 group-title="Ebox Live",Colors
 http://tv.ebox.live:8080/live/colors.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 43
+#EXTINF:-1 group-title="Ebox Live",Sony HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 44
+#EXTINF:-1 group-title="Ebox Live",Sony SAB
 http://tv.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 45
+#EXTINF:-1 group-title="Ebox Live",Star Gold
 http://tv.ebox.live:8080/live/star-gold.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 46
+#EXTINF:-1 group-title="Ebox Live",Star Gold Select
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 47
+#EXTINF:-1 group-title="Ebox Live",Zee Cinema HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 48
+#EXTINF:-1 group-title="Ebox Live",Sony MAX
 http://tv.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 49
+#EXTINF:-1 group-title="Ebox Live",Sony Max 2
 http://tv.ebox.live:8080/live/sony-max-2.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 50
+#EXTINF:-1 group-title="Ebox Live",Star Movies
 http://tv.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 51
+#EXTINF:-1 group-title="Ebox Live",Sony PIX
 http://tv.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 52
+#EXTINF:-1 group-title="Ebox Live",HBO
 http://tv.ebox.live:8080/live/hbo.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 53
+#EXTINF:-1 group-title="Ebox Live",Color Infinity
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 54
+#EXTINF:-1 group-title="Ebox Live",Nick
 http://tv.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 55
+#EXTINF:-1 group-title="Ebox Live",Discovery
 http://tv.ebox.live:8080/live/discovery.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 56
+#EXTINF:-1 group-title="Ebox Live",Animale Planet
 http://tv.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 57
+#EXTINF:-1 group-title="Ebox Live",National Geo
 http://tv.ebox.live:8080/live/natg.m3u8
