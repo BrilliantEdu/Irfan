@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz"
 #EXTINF:-1 group-title="Toffee",Ekattor TV HD
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1 group-title="Toffee",Somoy TV
@@ -155,14 +155,12 @@ http://103.205.133.19/hls/atnnews.m3u8
 http://103.205.133.14/hls/gtv.m3u8
 #EXTINF:-1 group-title="Toffee",Colors Bangla
 http://103.205.133.19/hls/etvbangla.m3u8
-#EXTINF:-1 group-title="Toffee",TravelXP HD
-http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/b4c5bd70899e5a8e97a5d47d9dda6bd184c9b60cd543891cb4cbaf05c3d22ab2/TRAVELXP-BANGLA_2_playlist.m3u8
 #EXTINF:-1 group-title="Toffee",TLC HD
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1 group-title="Ebox Live",Gazi TV HD
 http://tv.ebox.live:8080/live/gazi-tv.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 2
-http://tv.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 group-title="Ebox Live",Jamuna TV
+http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 group-title="Ebox Live",ATN Bangla
 http://tv.ebox.live:8080/live/atnbd1.m3u8
 #EXTINF:-1 group-title="Ebox Live",Channel i HD
@@ -177,7 +175,7 @@ http://tv.ebox.live:8080/live/ekattor1.m3u8
 http://tv.ebox.live:8080/live/news24.m3u8
 #EXTINF:-1 group-title="Ebox Live",DBC HD
 http://tv.ebox.live:8080/live/dbc.m3u8
-#EXTINF:-1 group-title="Ebox Live",Channel 10
+#EXTINF:-1 group-title="Ebox Live",ATN News
 http://tv.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1 group-title="Ebox Live",Gaan Bangla HD
 http://tv.ebox.live:8080/live/gan.m3u8
@@ -273,3 +271,211 @@ http://tv.ebox.live:8080/live/discovery.m3u8
 http://tv.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 group-title="Ebox Live",National Geo
 http://tv.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 group-title="Boss BD",Gazi TV HD
+http://tvserver.roarzone.info:8082/1/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Somoy Tv
+http://tvserver.roarzone.info:8082/20/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Dipto TV HD
+http://tvserver.roarzone.info:8082/24/index.m3u8
+#EXTINF:-1 group-title="Boss BD",DBC News HD
+http://tvserver.roarzone.info:8082/23/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Asian TV HD
+http://tvserver.roarzone.info:8082/15/index.m3u8
+#EXTINF:-1 group-title="Boss BD",ATN News
+http://tvserver.roarzone.info:8082/17/index.m3u8
+#EXTINF:-1 group-title="Boss BD",ATN Islamic TV
+http://tvserver.roarzone.info:8082/111/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Boishaki TV
+http://tvserver.roarzone.info:8082/19/index.m3u8
+#EXTINF:-1 group-title="Boss BD",BTV World
+http://tvserver.roarzone.info:8082/4/index.m3u8
+#EXTINF:-1 group-title="Boss BD",BTV
+http://tvserver.roarzone.info:8082/104/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Somoy Tv
+http://tvserver.roarzone.info:8082/106/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Banglavision HD
+http://tvserver.roarzone.info:8082/18/index.m3u8
+#EXTINF:-1 group-title="Boss BD",CH i
+http://tvserver.roarzone.info:8082/22/index.m3u8
+#EXTINF:-1 group-title="Boss BD",CH 24
+http://tvserver.roarzone.info:8082/21/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Duronto TV
+http://tvserver.roarzone.info:8082/26/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Ekkator TV HD
+http://tvserver.roarzone.info:8082/27/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Maasrangha TV HD
+http://tvserver.roarzone.info:8082/14/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Indipendent TV
+http://tvserver.roarzone.info:8082/29/index.m3u8
+#EXTINF:-1 group-title="Boss BD",N tv
+http://tvserver.roarzone.info:8082/31/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Jamuna TV
+http://tvserver.roarzone.info:8082/30/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Nagorik TV HD
+http://tvserver.roarzone.info:8082/32/index.m3u8
+#EXTINF:-1 group-title="Boss BD",R tv HD
+http://tvserver.roarzone.info:8082/33/index.m3u8
+#EXTINF:-1 group-title="Boss BD",My Tv HD
+http://tvserver.roarzone.info:8082/43/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Ekhusey TV
+http://tvserver.roarzone.info:8082/28/index.m3u8
+#EXTINF:-1 group-title="Boss BD",SA Tv HD
+http://tvserver.roarzone.info:8082/34/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Peace TV Bangla
+http://tvserver.roarzone.info:8082/52/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Anondo TV 
+http://tvserver.roarzone.info:8082/39/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Mohona TV
+http://tvserver.roarzone.info:8082/42/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Gaan Bangla HD
+http://tvserver.roarzone.info:8082/98/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Azan TV
+http://tvserver.roarzone.info:8082/99/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Bijoy Tv
+http://tvserver.roarzone.info:8082/101/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Bangla TV HD
+http://tvserver.roarzone.info:8082/145/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Iqra TV
+http://tvserver.roarzone.info:8082/109/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony TV
+http://tvserver.roarzone.info:8082/81/index.m3u8
+#EXTINF:-1 group-title="Boss BD",SAB Tv
+http://tvserver.roarzone.info:8082/84/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Star Plus
+http://tvserver.roarzone.info:8082/11/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony Max
+http://tvserver.roarzone.info:8082/82/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony Max HD
+http://tvserver.roarzone.info:8082/83/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Star Gold
+http://tvserver.roarzone.info:8082/12/index.m3u8
+#EXTINF:-1 group-title="Boss BD",B4u Movies
+http://tvserver.roarzone.info:8082/124/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee Cinema
+http://tvserver.roarzone.info:8082/150/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee TV
+http://tvserver.roarzone.info:8082/8/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee Bollowood
+http://tvserver.roarzone.info:8082/10/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee Cafe
+http://tvserver.roarzone.info:8082/76/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee Classic
+http://tvserver.roarzone.info:8082/121/index.m3u8
+#EXTINF:-1 group-title="Boss BD",And Picture
+http://tvserver.roarzone.info:8082/77/index.m3u8
+#EXTINF:-1 group-title="Boss BD",And TV
+http://tvserver.roarzone.info:8082/80/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Colors
+http://tvserver.roarzone.info:8082/13/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Movies Now
+http://tvserver.roarzone.info:8082/137/index.m3u8
+#EXTINF:-1 group-title="Boss BD",MNX
+http://tvserver.roarzone.info:8082/139/index.m3u8
+#EXTINF:-1 group-title="Boss BD",B4u Karak
+http://tvserver.roarzone.info:8082/132/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony YAH
+http://tvserver.roarzone.info:8082/54/index.m3u8
+#EXTINF:-1 group-title="Boss BD",WION Tv
+http://tvserver.roarzone.info:8082/86/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zing
+http://tvserver.roarzone.info:8082/102/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zoom
+http://tvserver.roarzone.info:8082/112/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony SIX
+http://tvserver.roarzone.info:8082/59/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Ten 1
+http://tvserver.roarzone.info:8082/55/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Ten 2
+http://tvserver.roarzone.info:8082/56/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Ten 3
+http://tvserver.roarzone.info:8082/57/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony ESPN
+http://tvserver.roarzone.info:8082/58/index.m3u8
+#EXTINF:-1 group-title="Boss BD",S S 1
+http://tvserver.roarzone.info:8082/60/index.m3u8
+#EXTINF:-1 group-title="Boss BD",S S 2
+http://tvserver.roarzone.info:8082/61/index.m3u8
+#EXTINF:-1 group-title="Boss BD",S S S 1
+http://tvserver.roarzone.info:8082/62/index.m3u8
+#EXTINF:-1 group-title="Boss BD",S S S 2
+http://tvserver.roarzone.info:8082/63/index.m3u8
+#EXTINF:-1 group-title="Boss BD",PTV Sports
+http://tvserver.roarzone.info:8082/65/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Bein S 1
+http://tvserver.roarzone.info:8082/73/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Bain 2
+http://tvserver.roarzone.info:8082/128/index.m3u8
+#EXTINF:-1 group-title="Boss BD",DD Sports
+http://tvserver.roarzone.info:8082/133/index.m3u8
+#EXTINF:-1 group-title="Boss BD",D Sports
+http://tvserver.roarzone.info:8082/135/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Fox Sports
+http://tvserver.roarzone.info:8082/143/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Romedy Now
+http://tvserver.roarzone.info:8082/138/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee bangla HD
+http://tvserver.roarzone.info:8082/48/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Star Jalsha HD
+http://tvserver.roarzone.info:8082/37/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Star Jolsha Movies
+http://tvserver.roarzone.info:8082/38/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee Cinema Bangla
+http://tvserver.roarzone.info:8082/9/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee Bangla Cinema
+http://tvserver.roarzone.info:8082/107/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Colors Bangla
+http://tvserver.roarzone.info:8082/36/index.m3u8
+#EXTINF:-1 group-title="Boss BD",24 Ghonta
+http://tvserver.roarzone.info:8082/50/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony 8
+http://tvserver.roarzone.info:8082/47/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Akash 8
+http://tvserver.roarzone.info:8082/46/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Songit Bangla
+http://tvserver.roarzone.info:8082/53/index.m3u8
+#EXTINF:-1 group-title="Boss BD",9XM
+http://tvserver.roarzone.info:8082/90/index.m3u8
+#EXTINF:-1 group-title="Boss BD",9XO
+http://tvserver.roarzone.info:8082/92/index.m3u8
+#EXTINF:-1 group-title="Boss BD",9X Jalwa
+http://tvserver.roarzone.info:8082/91/index.m3u8
+#EXTINF:-1 group-title="Boss BD",B4U Music
+http://tvserver.roarzone.info:8082/140/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Dhoom Music
+http://tvserver.roarzone.info:8082/115/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Dil See
+http://tvserver.roarzone.info:8082/103/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Music Fatafati
+http://tvserver.roarzone.info:8082/108/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Only Music
+http://tvserver.roarzone.info:8082/110/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Sony Wah
+http://tvserver.roarzone.info:8082/93/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Zee Etc
+http://tvserver.roarzone.info:8082/94/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Discovery
+http://tvserver.roarzone.info:8082/89/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Discovery Hindi
+http://tvserver.roarzone.info:8082/44/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Nat Geo
+http://tvserver.roarzone.info:8082/148/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Nat Geo People
+http://tvserver.roarzone.info:8082/7/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Nat Geo Wild
+http://tvserver.roarzone.info:8082/6/index.m3u8
+#EXTINF:-1 group-title="Boss BD",H2
+http://tvserver.roarzone.info:8082/5/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Animel Planet
+http://tvserver.roarzone.info:8082/45/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Fox Life
+http://tvserver.roarzone.info:8082/87/index.m3u8
+#EXTINF:-1 group-title="Boss BD",BBC Earth
+http://tvserver.roarzone.info:8082/88/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Lotus Macua
+http://tvserver.roarzone.info:8082/75/index.m3u8
+#EXTINF:-1 group-title="Boss BD",CN
+http://tvserver.roarzone.info:8082/120/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Disney Junior
+http://tvserver.roarzone.info:8082/125/index.m3u8
+#EXTINF:-1 group-title="Boss BD",Disney
+http://tvserver.roarzone.info:8082/126/index.m3u8
