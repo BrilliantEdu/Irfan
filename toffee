@@ -1,162 +1,4 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz"
-#EXTINF:-1 group-title="Toffee",Ekattor TV HD
-https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Somoy TV
-https://streamer-1.toffeelive.com/live/somoy_tv_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",News 24 HD
-https://streamer-1.toffeelive.com/live/news24hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",DBC News HD
-https://streamer-1.toffeelive.com/live/dbc_news_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Independent TV
-https://streamer-1.toffeelive.com/live/independent_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Channel 24
-https://streamer-1.toffeelive.com/live/channel_24_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Al Jazeera
-https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",DW
-https://streamer-1.toffeelive.com/live/dw_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",DW Asia
-https://streamer-1.toffeelive.com/live/dw_tv_asia_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",RT
-https://streamer-1.toffeelive.com/live/russia_today_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",CGTN Documentary
-http://178.196.237.240:3000/play/xxCGTNDocumentaryxx
-#EXTINF:-1 group-title="Toffee",RT Doc JG
-http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8
-#EXTINF:-1 group-title="Toffee",Australia Plus
-https://streamer-1.toffeelive.com/live/australia_plus_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Euro News
-https://streamer-1.toffeelive.com/live/euro_news_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",WION
-https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",CCTV 4
-https://streamer-1.toffeelive.com/live/cctv_4_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",TV5
-https://streamer-1.toffeelive.com/live/tv5_monde_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Ariring
-https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",NHK World
-https://streamer-1.toffeelive.com/live/nhk_world_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",CGTN
-https://streamer-1.toffeelive.com/live/cgtn_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Geo News
-https://streamer-1.toffeelive.com/live/geo_news_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Channel i HD
-https://streamer-1.toffeelive.com/live/channel_i_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Boishakhi TV
-https://streamer-1.toffeelive.com/live/boishakhi_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",N TV
-https://streamer-1.toffeelive.com/live/ntv_b_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Bangla TV HD
-https://streamer-1.toffeelive.com/live/bangla_tv_hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Ananda TV
-https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Entertainment
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Aath
-https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Sab
-https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee TV
-https://streamer-1.toffeelive.com/live/Zee_TV_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee Bangla
-https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",& TV
-https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee Action
-https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee Etc
-https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Akash Aath
-https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",ARY Zindegi
-https://streamer-1.toffeelive.com/live/ary_zindegi_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",DD Bangla
-https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",HUM Masala
-https://streamer-1.toffeelive.com/live/hum_masala_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",PTV Global
-https://streamer-1.toffeelive.com/live/ptv_global_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",ARY Family
-https://streamer-1.toffeelive.com/live/ary_family_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",AL Arabia
-https://streamer-1.toffeelive.com/live/al_arabia_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",ARY Digital
-https://streamer-1.toffeelive.com/live/ary_digital_asia_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",PTV World
-https://streamer-1.toffeelive.com/live/ptv_world_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Ten 2
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Star Sports 1 HD
-http://103.58.73.26/streams/104/index.m3u8
-#EXTINF:-1 group-title="Toffee",Star Sports 2 HD
-http://103.58.73.26/streams/116/index.m3u8
-#EXTINF:-1 group-title="Toffee",Star Sports Select 2 HD
-http://103.58.73.26/streams/114/index.m3u8
-#EXTINF:-1 group-title="Toffee",Star Sports Select HD
-http://103.58.73.26/streams/113/index.m3u8
-#EXTINF:-1 group-title="Toffee",PTV Sports
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 group-title="Toffee",Sony YAY
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony MAX
-https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony PIX
-https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",B flix
-https://streamer-1.toffeelive.com/live/bflix_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee Cinema
-https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee Bangla Cinema
-https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Lotus Macua
-https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",9XO
-https://streamer-1.toffeelive.com/live/9xo_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",9XM
-https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",9XM Jalwa
-https://streamer-1.toffeelive.com/live/xm_jalwa_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",ARY Music
-https://streamer-1.toffeelive.com/live/ary_music_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Music India
-https://streamer-1.toffeelive.com/live/music_india_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zing 
-https://streamer-1.toffeelive.com/live/zing_sd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Rai Italia
-https://streamer-1.toffeelive.com/live/rai_italia_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sunnah TV
-https://streamer-1.toffeelive.com/live/sunnah_tv_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Quran TV
-https://streamer-1.toffeelive.com/live/quran_tv_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",ARY Q TV
-https://streamer-1.toffeelive.com/live/ary_qtv_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee Bangla HD
-https://streamer-1.toffeelive.com/live/zee_bangla_hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Zee TV HD
-https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Entertainmnt HD
-https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Set Max HD
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",Sony Ten 1 HD
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
-#EXTINF:-1 group-title="Toffee",And TV
-http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1 group-title="Toffee",ATN News
-http://103.205.133.19/hls/atnnews.m3u8
-#EXTINF:-1 group-title="Toffee",Gazi TV HD
-http://103.205.133.14/hls/gtv.m3u8
-#EXTINF:-1 group-title="Toffee",Colors Bangla
-http://103.205.133.19/hls/etvbangla.m3u8
-#EXTINF:-1 group-title="Toffee",TLC HD
-http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="Ebox Live",Gazi TV HD
 http://tv.ebox.live:8080/live/gazi-tv.m3u8
 #EXTINF:-1 group-title="Ebox Live",Jamuna TV
@@ -271,6 +113,8 @@ http://tv.ebox.live:8080/live/discovery.m3u8
 http://tv.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 group-title="Ebox Live",National Geo
 http://tv.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 group-title="Ebox Live",Fox Life
+http://stream.tapmad.com:1935/pitvlive2/playmax3/playlist.m3u8
 #EXTINF:-1 group-title="Boss BD",Gazi TV HD
 http://tvserver.roarzone.info:8082/1/index.m3u8
 #EXTINF:-1 group-title="Boss BD",Somoy Tv
@@ -478,4 +322,218 @@ http://tvserver.roarzone.info:8082/120/index.m3u8
 #EXTINF:-1 group-title="Boss BD",Disney Junior
 http://tvserver.roarzone.info:8082/125/index.m3u8
 #EXTINF:-1 group-title="Boss BD",Disney
+http://tvserver.roarzone.info:8082/126/index.m3u8
+#EXTINF:-1 group-title="Roar",G TV
+http://tvserver.roarzone.info:8082/1/index.m3u8
+#EXTINF:-1 group-title="Roar",CH 9
+http://tvserver.roarzone.info:8082/20/index.m3u8
+#EXTINF:-1 group-title="Roar",Dipto TV HD
+http://tvserver.roarzone.info:8082/24/index.m3u8
+#EXTINF:-1 group-title="Roar",Desh TV
+http://tvserver.roarzone.info:8082/25/index.m3u8
+#EXTINF:-1 group-title="Roar",NEWS 24
+http://tvserver.roarzone.info:8082/105/index.m3u8
+#EXTINF:-1 group-title="Roar",DBC HD
+http://tvserver.roarzone.info:8082/23/index.m3u8
+#EXTINF:-1 group-title="Roar",Asian TV
+http://tvserver.roarzone.info:8082/15/index.m3u8
+#EXTINF:-1 group-title="Roar",ATN Bangla 
+http://tvserver.roarzone.info:8082/16/index.m3u8
+#EXTINF:-1 group-title="Roar",ATN News
+http://tvserver.roarzone.info:8082/17/index.m3u8
+#EXTINF:-1 group-title="Roar",ATN Islamic
+http://tvserver.roarzone.info:8082/111/index.m3u8
+#EXTINF:-1 group-title="Roar",Boishakhi TV
+http://tvserver.roarzone.info:8082/19/index.m3u8
+#EXTINF:-1 group-title="Roar",Bangla Vision TV
+http://tvserver.roarzone.info:8082/18/index.m3u8
+#EXTINF:-1 group-title="Roar",BTV World
+http://tvserver.roarzone.info:8082/4/index.m3u8
+#EXTINF:-1 group-title="Roar",BTV
+http://tvserver.roarzone.info:8082/104/index.m3u8
+#EXTINF:-1 group-title="Roar",Somoy TV
+http://tvserver.roarzone.info:8082/106/index.m3u8
+#EXTINF:-1 group-title="Roar",CH i
+http://tvserver.roarzone.info:8082/22/index.m3u8
+#EXTINF:-1 group-title="Roar",CH 24
+http://tvserver.roarzone.info:8082/21/index.m3u8
+#EXTINF:-1 group-title="Roar",Duronto TV
+http://tvserver.roarzone.info:8082/26/index.m3u8
+#EXTINF:-1 group-title="Roar",Ekattor HD
+http://tvserver.roarzone.info:8082/27/index.m3u8
+#EXTINF:-1 group-title="Roar",Mashranga HD
+http://tvserver.roarzone.info:8082/14/index.m3u8
+#EXTINF:-1 group-title="Roar",Independent TV
+http://tvserver.roarzone.info:8082/29/index.m3u8
+#EXTINF:-1 group-title="Roar",N TV
+http://tvserver.roarzone.info:8082/31/index.m3u8
+#EXTINF:-1 group-title="Roar",Jamuna TV
+http://tvserver.roarzone.info:8082/30/index.m3u8
+#EXTINF:-1 group-title="Roar",Nagorik TV HD
+http://tvserver.roarzone.info:8082/32/index.m3u8
+#EXTINF:-1 group-title="Roar",R TV HD
+http://tvserver.roarzone.info:8082/33/index.m3u8
+#EXTINF:-1 group-title="Roar",My TV HD
+http://tvserver.roarzone.info:8082/43/index.m3u8
+#EXTINF:-1 group-title="Roar",Ekushey TV
+http://tvserver.roarzone.info:8082/28/index.m3u8
+#EXTINF:-1 group-title="Roar",SA TV HD
+http://tvserver.roarzone.info:8082/34/index.m3u8
+#EXTINF:-1 group-title="Roar",Peace TV Bangla
+http://tvserver.roarzone.info:8082/52/index.m3u8
+#EXTINF:-1 group-title="Roar",Anondo TV
+http://tvserver.roarzone.info:8082/39/index.m3u8
+#EXTINF:-1 group-title="Roar",Mohona TV
+http://tvserver.roarzone.info:8082/42/index.m3u8
+#EXTINF:-1 group-title="Roar",Gaan Bangla
+http://tvserver.roarzone.info:8082/98/index.m3u8
+#EXTINF:-1 group-title="Roar",Time TV
+http://tvserver.roarzone.info:8082/99/index.m3u8
+#EXTINF:-1 group-title="Roar",Bijoy TV HD
+http://tvserver.roarzone.info:8082/101/index.m3u8
+#EXTINF:-1 group-title="Roar",Bangla TV
+http://tvserver.roarzone.info:8082/145/index.m3u8
+#EXTINF:-1 group-title="Roar",Iqra TV 
+http://tvserver.roarzone.info:8082/109/index.m3u8
+#EXTINF:-1 group-title="Roar",SONY TV
+http://tvserver.roarzone.info:8082/81/index.m3u8
+#EXTINF:-1 group-title="Roar",SAB TV
+http://tvserver.roarzone.info:8082/84/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Plus
+http://tvserver.roarzone.info:8082/11/index.m3u8
+#EXTINF:-1 group-title="Roar",Sony MAX
+http://tvserver.roarzone.info:8082/82/index.m3u8
+#EXTINF:-1 group-title="Roar",Sony MAX HD
+http://tvserver.roarzone.info:8082/83/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Gold HD
+http://tvserver.roarzone.info:8082/12/index.m3u8
+#EXTINF:-1 group-title="Roar",B4U Movies
+http://tvserver.roarzone.info:8082/124/index.m3u8
+#EXTINF:-1 group-title="Roar",zee Cinema
+http://tvserver.roarzone.info:8082/150/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee TV
+http://tvserver.roarzone.info:8082/8/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee Bollywood
+http://tvserver.roarzone.info:8082/10/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee Cafe HD
+http://tvserver.roarzone.info:8082/76/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee Classic
+http://tvserver.roarzone.info:8082/121/index.m3u8
+#EXTINF:-1 group-title="Roar",And Picture
+http://tvserver.roarzone.info:8082/77/index.m3u8
+#EXTINF:-1 group-title="Roar",And TV
+http://tvserver.roarzone.info:8082/80/index.m3u8
+#EXTINF:-1 group-title="Roar",Colors
+http://tvserver.roarzone.info:8082/13/index.m3u8
+#EXTINF:-1 group-title="Roar",Movies Now
+http://tvserver.roarzone.info:8082/137/index.m3u8
+#EXTINF:-1 group-title="Roar",MNX
+http://tvserver.roarzone.info:8082/139/index.m3u8
+#EXTINF:-1 group-title="Roar",Movies OK
+http://tvserver.roarzone.info:8082/132/index.m3u8
+#EXTINF:-1 group-title="Roar",Sony YAY
+http://tvserver.roarzone.info:8082/54/index.m3u8
+#EXTINF:-1 group-title="Roar",WION
+http://tvserver.roarzone.info:8082/86/index.m3u8
+#EXTINF:-1 group-title="Roar",Zing
+http://tvserver.roarzone.info:8082/102/index.m3u8
+#EXTINF:-1 group-title="Roar",Zoom
+http://tvserver.roarzone.info:8082/112/index.m3u8
+#EXTINF:-1 group-title="Roar",Ten 1
+http://tvserver.roarzone.info:8082/55/index.m3u8
+#EXTINF:-1 group-title="Roar",Ten 2
+http://tvserver.roarzone.info:8082/56/index.m3u8
+#EXTINF:-1 group-title="Roar",Ten 3 HD
+http://tvserver.roarzone.info:8082/57/index.m3u8
+#EXTINF:-1 group-title="Roar",Sony ESPN
+http://tvserver.roarzone.info:8082/58/index.m3u8
+#EXTINF:-1 group-title="Roar",Sony SIX
+http://tvserver.roarzone.info:8082/59/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Sports 1
+http://tvserver.roarzone.info:8082/60/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Sports 2 HD
+http://tvserver.roarzone.info:8082/61/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Sports Select 1 HD
+http://tvserver.roarzone.info:8082/62/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Sports Select 2 HD
+http://tvserver.roarzone.info:8082/63/index.m3u8
+#EXTINF:-1 group-title="Roar",PTV Sports
+http://tvserver.roarzone.info:8082/65/index.m3u8
+#EXTINF:-1 group-title="Roar",Bein Sports
+http://tvserver.roarzone.info:8082/73/index.m3u8
+#EXTINF:-1 group-title="Roar",Bein Sports Max
+http://tvserver.roarzone.info:8082/128/index.m3u8
+#EXTINF:-1 group-title="Roar",DD Sports
+http://tvserver.roarzone.info:8082/133/index.m3u8
+#EXTINF:-1 group-title="Roar",D Sports
+http://tvserver.roarzone.info:8082/135/index.m3u8
+#EXTINF:-1 group-title="Roar",FOX Sports
+http://tvserver.roarzone.info:8082/143/index.m3u8
+#EXTINF:-1 group-title="Roar",Romedy Now
+http://tvserver.roarzone.info:8082/138/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee Bangla
+http://tvserver.roarzone.info:8082/48/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Jalsha
+http://tvserver.roarzone.info:8082/37/index.m3u8
+#EXTINF:-1 group-title="Roar",Star Jalsha Movies
+http://tvserver.roarzone.info:8082/38/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee Bangla Cinema
+http://tvserver.roarzone.info:8082/9/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee Bangla Cinema HD
+http://tvserver.roarzone.info:8082/107/index.m3u8
+#EXTINF:-1 group-title="Roar",Colors Bangla
+http://tvserver.roarzone.info:8082/36/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee 24 Ghanta
+http://tvserver.roarzone.info:8082/50/index.m3u8
+#EXTINF:-1 group-title="Roar",Sony 8
+http://tvserver.roarzone.info:8082/47/index.m3u8
+#EXTINF:-1 group-title="Roar",Akash 8
+http://tvserver.roarzone.info:8082/46/index.m3u8
+#EXTINF:-1 group-title="Roar",Songeet Bangla
+http://tvserver.roarzone.info:8082/53/index.m3u8
+#EXTINF:-1 group-title="Roar",9XM
+http://tvserver.roarzone.info:8082/90/index.m3u8
+#EXTINF:-1 group-title="Roar",9XO
+http://tvserver.roarzone.info:8082/92/index.m3u8
+#EXTINF:-1 group-title="Roar",9X Jalwa
+http://tvserver.roarzone.info:8082/91/index.m3u8
+#EXTINF:-1 group-title="Roar",B4U Music
+http://tvserver.roarzone.info:8082/140/index.m3u8
+#EXTINF:-1 group-title="Roar",Dhoom Music
+http://tvserver.roarzone.info:8082/115/index.m3u8
+#EXTINF:-1 group-title="Roar",Hungama Music
+http://tvserver.roarzone.info:8082/103/index.m3u8
+#EXTINF:-1 group-title="Roar",Music Fata Fati
+http://tvserver.roarzone.info:8082/108/index.m3u8
+#EXTINF:-1 group-title="Roar",Music Indi
+http://tvserver.roarzone.info:8082/110/index.m3u8
+#EXTINF:-1 group-title="Roar",Sony WAH
+http://tvserver.roarzone.info:8082/93/index.m3u8
+#EXTINF:-1 group-title="Roar",Zee ETC
+http://tvserver.roarzone.info:8082/94/index.m3u8
+#EXTINF:-1 group-title="Roar",Discovery
+http://tvserver.roarzone.info:8082/89/index.m3u8
+#EXTINF:-1 group-title="Roar",Discovery IN
+http://tvserver.roarzone.info:8082/44/index.m3u8
+#EXTINF:-1 group-title="Roar",Nat Geo
+http://tvserver.roarzone.info:8082/148/index.m3u8
+#EXTINF:-1 group-title="Roar",Nat Geo People
+http://tvserver.roarzone.info:8082/7/index.m3u8
+#EXTINF:-1 group-title="Roar",Nat Geo WILD
+http://tvserver.roarzone.info:8082/6/index.m3u8
+#EXTINF:-1 group-title="Roar",History TV
+http://tvserver.roarzone.info:8082/5/index.m3u8
+#EXTINF:-1 group-title="Roar",Animel Planet HD
+http://tvserver.roarzone.info:8082/45/index.m3u8
+#EXTINF:-1 group-title="Roar",Fox Life
+http://tvserver.roarzone.info:8082/87/index.m3u8
+#EXTINF:-1 group-title="Roar",BBC Earth
+http://tvserver.roarzone.info:8082/88/index.m3u8
+#EXTINF:-1 group-title="Roar",Lotus Macau
+http://tvserver.roarzone.info:8082/75/index.m3u8
+#EXTINF:-1 group-title="Roar",Cartoon Network
+http://tvserver.roarzone.info:8082/120/index.m3u8
+#EXTINF:-1 group-title="Roar",Disney Junior
+http://tvserver.roarzone.info:8082/125/index.m3u8
+#EXTINF:-1 group-title="Roar",Disney Channel
 http://tvserver.roarzone.info:8082/126/index.m3u8
