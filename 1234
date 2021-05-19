@@ -6329,3 +6329,130 @@ https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Zee Group",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 1
+http://cdn.ihub.live:8080/j-TSports/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 10
+http://cdn.ihub.live:8080/ADSPORTS3/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 101
+http://cdn.ihub.live:8080/j-star-gold-hd/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 103
+http://cdn.ihub.live:8080/j-Zee-Bangla-Cinema/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 105
+http://cdn.ihub.live:8080/ZeeCinema/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 107
+http://cdn.ihub.live:8080/j-Channel24/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 109
+http://cdn.ihub.live:8080/j-DBCNews/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 111
+http://cdn.ihub.live:8080/j-DW/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 113
+http://cdn.ihub.live:8080/EkattorTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 115
+http://cdn.ihub.live:8080/j-IndependentTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 117
+http://cdn.ihub.live:8080/j-News24/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 119
+http://cdn.ihub.live:8080/j-SomoyTv/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 12
+http://cdn.ihub.live:8080/SonySix/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 121
+http://cdn.ihub.live:8080/j-TimesNow/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 14
+http://cdn.ihub.live:8080/j-Sony-Ten1/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 16
+http://cdn.ihub.live:8080/SonyTen2/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 18
+http://cdn.ihub.live:8080/j-sony-ten3/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 20
+http://cdn.ihub.live:8080/j-AnandaTv/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 21
+http://cdn.ihub.live:8080/j-ATNBangla/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 23
+http://cdn.ihub.live:8080/j-ATNNews/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 25
+http://cdn.ihub.live:8080/j-BanglaTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 28
+http://cdn.ihub.live:8080/j-BijoyTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 3
+http://cdn.ihub.live:8080/j-GTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 30
+http://cdn.ihub.live:8080/j-BoishakhiTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 32
+http://cdn.ihub.live:8080/BTVWorld/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 34
+http://cdn.ihub.live:8080/j-Channel9/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 36
+http://cdn.ihub.live:8080/j-ChannelI/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 38
+http://cdn.ihub.live:8080/j-colors-bangla/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 40
+http://cdn.ihub.live:8080/j-colors-hd/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 42
+http://cdn.ihub.live:8080/j-DeeptoTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 43
+http://cdn.ihub.live:8080/j-DeshTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 44
+http://cdn.ihub.live:8080/j-GaanBangla/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 46
+http://cdn.ihub.live:8080/j-JamunaTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 48
+http://cdn.ihub.live:8080/j-Maasranga/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 5
+http://cdn.ihub.live:8080/live-sports/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 50
+http://cdn.ihub.live:8080/j-MohonaTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 52
+http://cdn.ihub.live:8080/j-MovieBangla/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 54
+http://cdn.ihub.live:8080/j-MyTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 56
+http://cdn.ihub.live:8080/NagorikTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 58
+http://cdn.ihub.live:8080/j-RTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 6
+http://cdn.ihub.live:8080/ADSPORTS1/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 60
+http://cdn.ihub.live:8080/j-SangsadTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 62
+http://cdn.ihub.live:8080/j-SATV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 64
+http://cdn.ihub.live:8080/j-sony-arth/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 66
+http://cdn.ihub.live:8080/SonySAB/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 68
+http://cdn.ihub.live:8080/j-SonyTV/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 70
+http://cdn.ihub.live:8080/j-star-jalsha/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 72
+http://cdn.ihub.live:8080/j-star-plus/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 74
+http://cdn.ihub.live:8080/j-Zee-Bangla-HD/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 76
+http://cdn.ihub.live:8080/j-Aljazeera/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 78
+http://cdn.ihub.live:8080/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 8
+http://cdn.ihub.live:8080/ADSPORTS2/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 81
+http://cdn.ihub.live:8080/TLCHD/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 82
+http://cdn.ihub.live:8080/SonyYay/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 83
+http://cdn.ihub.live:8080/Nick/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 86
+http://cdn.ihub.live:8080/j-and-picture-hd/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 87
+http://cdn.ihub.live:8080/&privatehd/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 89
+http://cdn.ihub.live:8080/j-AXN/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 91
+http://cdn.ihub.live:8080/Bflix/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 93
+http://cdn.ihub.live:8080/DubaiOne/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 94
+http://cdn.ihub.live:8080/j-hbo/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 97
+http://cdn.ihub.live:8080/j-Sony-MAX-HD/index.m3u8
+#EXTINF:-1 group-title="iHub Live",Channel 99
+http://cdn.ihub.live:8080/SonyPix/index.m3u8
+
