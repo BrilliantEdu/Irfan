@@ -1745,6 +1745,22 @@ http://103.109.56.116/live/skyfeed1017/index.m3u8
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 group-title="Discover TV",Channel 19
 http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentry", Travel XP
+http://180.210.191.2/hls/stream37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentry", National Geographic
+http://180.210.191.2/hls/stream13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentry", Discovery
+http://180.210.191.2/hls/stream9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentry", Animal Planet
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Documentry",SONY BBC Earth
+http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIZyi7p.png" group-title="Documentry", BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentry", Discovery Turbo
+http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentry", TLC
+http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentry",AFC
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentry",AFV Family
@@ -7404,9 +7420,9 @@ https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="BTSport2.uk" group-title="Sport",BT Sports 2 HD
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Sport",EDG 10 Sports HD
 http://134.19.182.131:8080/edg10_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Edge Sports
@@ -7420,9 +7436,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:0 tvg-id="esp2" group-title="Sport",Eurosport 2
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20200721_1595336176015/3000K/3000_slide.m3u8
 #EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Football TV
 http://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_480p/index.m3u8
 #EXTINF:-1 group-title="Sport",Fox Sports
@@ -7441,6 +7457,24 @@ http://31.220.41.88:8081/live/klub1.stream/chunks.m3u8
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport",SK 3
 http://31.220.41.88:8081/live/klub3.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sport",Sony SIX HD
+http://180.210.191.2/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sport",Sony SIX HD(2)
+http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sport",Sony Ten 1 HD
+http://180.210.191.2/hls/stream40.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sport",Sony Ten 1 HD(2)
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sport",Sony Ten 2 HD
+http://180.210.191.2/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sport",Sony Ten 2 HD(2)
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sport",Sony Ten 2 HD(3)
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sport",Sony Ten 3 HD
+http://199.66.95.242/3/3093/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sport",Sony Ten 3 HD(2)
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT​S TV​ 1HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT​S TV​ 2HD
